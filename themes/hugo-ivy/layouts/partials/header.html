@@ -48,8 +48,8 @@
     <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
     {{ end }}
     {{ partial "head_highlightjs" . }}
-    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
-    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/fonts.css" />
     {{ partial "head_custom.html" . }}
   </head>
 
