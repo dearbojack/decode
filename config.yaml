@@ -1,6 +1,6 @@
-baseurl: https://dearbojack.github.io/de_code/
+baseurl: https://dearbojack.github.io/decode/
 languageCode: en-us
-title: Hugo Ivy
+title: deCode
 theme: hugo-ivy
 googleAnalytics: ""
 disqusShortname: ""
@@ -32,9 +32,9 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
-  highlightjsLang: ["latex"]
+  description: "How I (fail to) become a developer"
+  footer: "&copy; Dali Han 2023 | [Github](https://github.com/dearbojack)"
+  highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
 
