@@ -9,14 +9,14 @@
 {{ end }}
 {{ $date := "" }}
 {{ if .Params.date }}
-{{ $date = .Date.Format "2006-01-02" }}
+{{ $date = .Date.Format "Monday, 2 January 2006" }}
 {{ else }}
 {{ with .Lastmod }}
 {{ $date = .Format "2006-01-02" }}
 {{ end }}
 {{ end }}
 {{ with $date }}
-{{ if $author }} / {{ end }}
+{{ if $author }} @ {{ end }}
 {{ . }}
 {{ end }}</h3>
 {{ end }}
