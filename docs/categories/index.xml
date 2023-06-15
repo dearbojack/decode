@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on deCode</title><link>https://dearbojack.github.io/decode/categories/</link><description>Recent content in Categories on deCode</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Example</title><link>https://dearbojack.github.io/decode/categories/example/</link><pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/categories/example/</guid><description/></item><item><title>Hugo</title><link>https://dearbojack.github.io/decode/categories/hugo/</link><pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/categories/hugo/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dali</title>
+    <link>https://dearbojack.github.io/decode/categories/</link>
+    <description>Recent content in Categories on Dali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 18:43:33 +0100</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post</title>
+      <link>https://dearbojack.github.io/decode/categories/post/</link>
+      <pubDate>Thu, 15 Jun 2023 18:43:33 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/categories/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journal</title>
+      <link>https://dearbojack.github.io/decode/categories/journal/</link>
+      <pubDate>Thu, 15 Jun 2023 18:42:04 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note</title>
+      <link>https://dearbojack.github.io/decode/categories/note/</link>
+      <pubDate>Thu, 15 Jun 2023 18:38:47 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/categories/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://dearbojack.github.io/decode/categories/example/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/categories/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://dearbojack.github.io/decode/categories/hugo/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

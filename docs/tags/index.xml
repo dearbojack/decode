@@ -1,1 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on deCode</title><link>https://dearbojack.github.io/decode/tags/</link><description>Recent content in Tags on deCode</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Tutorial</title><link>https://dearbojack.github.io/decode/tags/tutorial/</link><pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/tags/tutorial/</guid><description/></item><item><title>blogdown</title><link>https://dearbojack.github.io/decode/tags/blogdown/</link><pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/tags/blogdown/</guid><description/></item><item><title>Markdown</title><link>https://dearbojack.github.io/decode/tags/markdown/</link><pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/tags/markdown/</guid><description/></item><item><title>MathJax</title><link>https://dearbojack.github.io/decode/tags/mathjax/</link><pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/tags/mathjax/</guid><description/></item><item><title>Pandoc</title><link>https://dearbojack.github.io/decode/tags/pandoc/</link><pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/tags/pandoc/</guid><description/></item><item><title>RStudio</title><link>https://dearbojack.github.io/decode/tags/rstudio/</link><pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate><guid>https://dearbojack.github.io/decode/tags/rstudio/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dali</title>
+    <link>https://dearbojack.github.io/decode/tags/</link>
+    <description>Recent content in Tags on Dali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 18:43:33 +0100</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://dearbojack.github.io/decode/tags/hugo/</link>
+      <pubDate>Thu, 15 Jun 2023 18:43:33 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://dearbojack.github.io/decode/tags/linux/</link>
+      <pubDate>Thu, 15 Jun 2023 18:43:33 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cat</title>
+      <link>https://dearbojack.github.io/decode/tags/cat/</link>
+      <pubDate>Thu, 15 Jun 2023 18:42:04 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mom</title>
+      <link>https://dearbojack.github.io/decode/tags/mom/</link>
+      <pubDate>Thu, 15 Jun 2023 18:42:04 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/mom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sys</title>
+      <link>https://dearbojack.github.io/decode/tags/sys/</link>
+      <pubDate>Thu, 15 Jun 2023 18:38:47 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/sys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://dearbojack.github.io/decode/tags/test/</link>
+      <pubDate>Thu, 15 Jun 2023 18:38:47 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogdown</title>
+      <link>https://dearbojack.github.io/decode/tags/blogdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://dearbojack.github.io/decode/tags/markdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MathJax</title>
+      <link>https://dearbojack.github.io/decode/tags/mathjax/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandoc</title>
+      <link>https://dearbojack.github.io/decode/tags/pandoc/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/pandoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio</title>
+      <link>https://dearbojack.github.io/decode/tags/rstudio/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
