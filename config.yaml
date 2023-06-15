@@ -1,6 +1,6 @@
 baseurl: https://dearbojack.github.io/decode
 languageCode: en-us
-title: deCode
+title: Dali
 theme: hugo-ivy
 googleAnalytics: ""
 disqusShortname: ""
@@ -32,7 +32,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "How I (fail to) become a decoder"
+  description: "How I live"
   footer: "&copy; Dali Han 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
