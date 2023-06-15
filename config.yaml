@@ -25,9 +25,9 @@ menu:
     # - name: "Categories"
     #   url: "/categories/"
     #   weight: 2
-    - name: "Tags"
-      url: "/tags/"
-      weight: 3
+    # - name: "Tags"
+    #   url: "/tags/"
+    #   weight: 3
     - name: "Subscribe"
       url: "/index.xml"
 
