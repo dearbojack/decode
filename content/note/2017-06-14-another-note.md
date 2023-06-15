@@ -7,6 +7,7 @@ categories:
 tags:
   - Tutorial
 slug: another-note
+draft: true
 ---
 
 I just discovered [an awesome tutorial](https://apreshill.rbind.io/post/up-and-running-with-blogdown/) on **blogdown** written by Alison. I have to admit this is _the_ best **blogdown** tutorial I have seen so far.

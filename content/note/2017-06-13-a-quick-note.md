@@ -5,6 +5,7 @@ date: '2017-06-13'
 categories:
   - Example
 slug: a-quick-note
+draft: true
 ---
 
 To me, the two most impressive websites based on **blogdown** are:
