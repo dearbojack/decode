@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dali</title>
+    <title>Tags on Decode</title>
     <link>https://dearbojack.github.io/decode/tags/</link>
-    <description>Recent content in Tags on Dali</description>
+    <description>Recent content in Tags on Decode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Jun 2023 19:22:13 +0100</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml" />
