@@ -17,7 +17,7 @@ permalinks:
 menu:
   main:
     - name: "Home"
-      url: "/"
+      url: "/decode/"
       weight: 1
     # - name: "About"
     #   url: "/about/"
