@@ -282,17 +282,17 @@ thead, tfoot, tr:nth-child(even) {
  * IE10+ to render responsive styling in Windows 8 "snapped" views;
  * IE10+ does not honour the meta tag.
  */
-
+/* 
 @-ms-viewport {
   width: device-width;
 }
 
 @viewport {
   width: device-width;
-}
+} */
 
 /* Tablet screens and smaller */
-
+/* 
 @media screen and (max-width: 960px) {
 
   body {
@@ -422,15 +422,15 @@ thead, tfoot, tr:nth-child(even) {
     margin-top: 50px;
     margin-bottom: 0;
   }
-}
+} */
 
 /* Landscape phone screens and smaller */
 
-@media screen and (max-width: 720px) {
-}
+/* @media screen and (max-width: 720px) {
+} */
 
 /* Portrait phone screens */
-
+/* 
 @media screen and (max-width: 480px) {
 
   body {
@@ -457,4 +457,4 @@ thead, tfoot, tr:nth-child(even) {
     padding-top: 0;
   }
 
-}
+} */
