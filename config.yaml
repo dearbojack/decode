@@ -21,13 +21,10 @@ menu:
       weight: 1
     # - name: "About"
     #   url: "/about/"
-    #   weight: 2
-    # - name: "Categories"
-    #   url: "/categories/"
-    #   weight: 2
-    # - name: "Tags"
-    #   url: "/tags/"
-    #   weight: 3
+      # weight: 2
+    - name: "Tags"
+      url: "/tags/"
+      weight: 3
     - name: "Subscribe"
       url: "/index.xml"
 
