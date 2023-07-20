@@ -22,14 +22,14 @@ menu:
     # - name: "About"
     #   url: "/about/"
       # weight: 2
-    - name: "Tags"
-      url: "/tags/"
-      weight: 3
+    # - name: "Tags"
+    #   url: "/tags/"
+    #   weight: 3
     - name: "Subscribe"
       url: "/index.xml"
 
 params:
-  description: "How I live"
+  description: "How I live my life"
   footer: "&copy; Dali Han 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"

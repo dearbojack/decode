@@ -3,12 +3,17 @@ title: Home
 ---
 
 Here is the life of a rather common people.
+這裏是一個普通人的胡思亂想。
 
 I like playing games. Life is about experiences and by playing good games you can experience the life of the hero immersively. Great games in my view: Dark Souls III, Sekiro, Hollow Knight, Legend of Zelda: Breath of the Wild, Elden Ring, Red Dead Redemption 2, Dead Cells, The Witcher: Wild Hunt. Lately, I'm playing **Legend of Zelda: Tears of the Kingdom (totk)** and it is great.
+
+喜歡玩遊戲。因爲人生在於體驗，一個好遊戲就是一個全新的人生體驗，我選擇體驗更多。越多越好。當然，好遊戲是有門檻的。
 
 I like playing with codes. I just graduated from a frontend bootcamp but long before that I have been playing with linux distros and all kinds of command line tools back in the university. Though I haven't created any thing yet, I am still trying.
 
 I think a lot and I'd like to write those fleeting thoughts down so they can last a little longer, though I know they are just some foolish doodles on the beach.
+
+喜歡打字。喜歡寫代碼。其實寫代碼也是一種寫作。而寫作，或者退一步講，打字，再退一步，敲鍵盤，給我一種舒適感。在那一刻，你只需要關心手指在鍵盤上敲出腦子裏想的東西。我想很多，但記下來的很少，或者都不知道去哪裏了，寫在這裏，留點念想。
 
 Here pieces of thoughts are in [note](/decode/note) and longer or more wholesome pieces are in [post](/decode/post). Nothing eles.
 
