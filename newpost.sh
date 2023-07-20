@@ -40,11 +40,11 @@ categories:
 EOF
       ;;
   j)
-      file_path="content/$(date +'%Y-%m-%d')-$file_name.md"
+      file_path="content/journal/$(date +'%Y-%m-%d')-$file_name.md"
       hugo new "$file_path" "journal"
       cat > "$file_path" << EOF
 ---
-title: "$file_name"
+title: "lifelog - $file_name"
 date: "$(date +"%Y-%m-%dT%H:%M:%S%:z")"
 author: "Dali Han"
 tags: [$tags]
@@ -54,7 +54,7 @@ categories:
 EOF
       ;;
   *)
-      echo "Unknown post categories"
+      echo "Unknown post categories, start again"
       exit 1
       ;;
 esac
