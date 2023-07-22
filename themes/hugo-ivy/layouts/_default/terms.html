@@ -4,7 +4,7 @@
   {{ range $key, $value := .Data.Terms }}
   <li>
     <!-- here we can change the link for pages under tags/categories -->
-    <a href="{{ (print "decode/" $.Data.Plural "/" $key | urlize) | relURL }}">
+    <a href="{{ (print "/" $.Data.Plural "/" $key | urlize) | relURL }}">
       {{ $key }}
     </a>
     ({{ len $value }})
