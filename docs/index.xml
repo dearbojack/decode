@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dearbojack.github.io/decode/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About The Guy Behind</title>
+      <link>https://dearbojack.github.io/decode/about/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/about/</guid>
+      <description>This regular guy loves playing good games. Life&amp;rsquo;s about experiences and you can have unique experiences by playing good games. So, why not give it a shot? This guy also enjoys fiddling with codes. He hasn&amp;rsquo;t made anything big yet, but he&amp;rsquo;s still trying. He thinks a lot and wants to write those quick thoughts down, so they stick around a bit longer, even if they&amp;rsquo;re just silly doodles on the sand.</description>
+    </item>
+    
+    <item>
       <title>On the life of human</title>
       <link>https://dearbojack.github.io/decode/note/2023/07/19/on-the-life-of-human/</link>
       <pubDate>Wed, 19 Jul 2023 17:51:52 +0100</pubDate>
@@ -133,16 +142,6 @@ But, that is a slippery slope. You can have the experience of a murderer and be 
 hahaha
 08:53 am
 again</description>
-    </item>
-    
-    <item>
-      <title>About Hugo Ivy</title>
-      <link>https://dearbojack.github.io/decode/about/</link>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/about/</guid>
-      <description>This Hugo theme was ported from Ivy, a minimalist website generator built in Python. I don&amp;rsquo;t have time to document this theme. You have to read the source code to understand what it can do. All I can say for now is that I love it. It is clean, minimal, and responsive.
-I hope you will enjoy this theme. The source code is on Github. Happy hacking!</description>
     </item>
     
   </channel>

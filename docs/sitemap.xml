@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dearbojack.github.io/decode/about/</loc>
+    <lastmod>2023-03-28T22:51:37+01:00</lastmod>
+  </url><url>
     <loc>https://dearbojack.github.io/decode/categories/</loc>
     <lastmod>2023-07-20T21:11:08+01:00</lastmod>
   </url><url>
@@ -73,9 +76,6 @@
   </url><url>
     <loc>https://dearbojack.github.io/decode/journal/2023-02-08-001/</loc>
     <lastmod>2023-07-20T21:11:08+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/about/</loc>
-    <lastmod>2023-03-28T22:51:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/</loc>
     <lastmod>2023-07-20T21:11:08+01:00</lastmod>
