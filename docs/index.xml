@@ -7,6 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dearbojack.github.io/decode/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>lifelog - Hugo Minor Tweaks</title>
+      <link>https://dearbojack.github.io/decode/2023-07-22-tweak-hugo/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/2023-07-22-tweak-hugo/</guid>
+      <description>It is such a pain in the ass to tweak hugo around. Every time when you think everything is okay, then some other stuff came up and you had to spend some extra time to fix. And the syntax of go is so hard to read, nearly unreadable. And I want to say, so this is it, good or bad, this is the final look of the blog. I will write for some years and to see if there is any need to make it better.</description>
+    </item>
+    
+    <item>
+      <title>Live Out Loud &amp;</title>
+      <link>https://dearbojack.github.io/decode/journal/2023-07-22-test/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/journal/2023-07-22-test/</guid>
+      <description>几年前在之前上班的外企，流行过一股 Work Out Loud 的风潮。讲的是工作要让别人知道你怎么工作，什么成果，需要什么样的人合作，这样别人就知道怎么帮助你，同时还可以打造你自己的个人品牌。后来，社交媒体上也有很多人表示，公开学习，就是在社交媒体上分享自己学习的东西，和大家一起交流，对自己的学习效果有提升，同时还可以打造个人品牌，again，当然了还可以吸粉。我们姑且称之为 Learn Out Loud。
+这么看来这个世界真是聒噪。那我作为一个内向者就不开心了，我要 Live Out Loud。所以，博客生成脚本改了一下，日志文件，当然就是每天的日记，也会每天放在主页，只在后面加个&amp;amp;表示是 log，yes my lifelog。至于以前的日志就暂时先隐藏了。
+That&amp;rsquo;s it.</description>
+    </item>
+    
+    <item>
       <title>TIL: Typed.js</title>
       <link>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
@@ -85,7 +105,7 @@ It turned out to be the longest delay I&amp;rsquo;ve ever experienced till now. 
       
       <guid>https://dearbojack.github.io/decode/note/2023/06/29/barcelona/</guid>
       <description>@BCN Airport now. Flight delayed for more than 1 hour already. Still waiting. Wasted a whole afternoon here.
-之前在Ins上看到过很多巴塞罗那的照片，全都是暖色调的，整整齐齐的城市等等。这次来转了一天多一点，并没有什么好印象。人太多了，天气又热，作为游客，公共交通上人多的一塌糊涂。从来没坐。
+之前在Ins上看到过很多巴塞罗那的照片，全都是暖色调的，整整齐齐的城市等等。这次来转了一天多一点，并没有什么好印象。人太多了，天气又热，作为游客，公共交通上人多的一塌糊涂。从来没座儿。
 去了高迪的圣家堂，很高，很惊艳，外面和里面的设计都很牛。这就是《文明》游戏里面所谓的人类历史上的“奇观”吧。另外的，并没有什么留下深刻的印象。还去了毕加索博物馆，一个小巷子里面，都是手稿，买票的时候，工作人员给了学生票，15欧。出来之后在巷子里旁边的一家小店吃了东西，60欧。菜单全都看不懂。
 住在海边的一个酒店，挺远，设备挺老，挺不爽的是当天酒店的预订价格竟然比自己提前一个月订的要便宜。旁边5分钟就可以走到海边，柏油路晒得热热的。彪的鞋子不合脚，脚破了，后来就索性光着脚走了。
 海边人很多，第二天看日出的时候发现竟然有人搭了帐篷就住在沙滩上。因为第二天就要收拾东西走了，所以就没有多转。在酒店旁边的一个饭馆吃了饭，海鲜饭咸死。其他还好，油煎辣椒不错。交通不方便。米兰之家巴蒂略之家都没去，然后桂尔公园大老远去了没有票了，就只好悻悻坐车去赶飞机了。
@@ -140,10 +160,10 @@ But, that is a slippery slope. You can have the experience of a murderer and be 
     
     <item>
       <title>lifelog - New Start</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-04-05/</link>
+      <link>https://dearbojack.github.io/decode/2023-04-05/</link>
       <pubDate>Wed, 05 Apr 2023 09:42:23 +0100</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-04-05/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-04-05/</guid>
       <description>是的，又重新開始了。一個中文博客寫日記，一個英文博客寫編碼，搞了好久部署沒有搞定。後來想想，完全沒有必要啊，中文的日記其實都是比較私人的東西，沒有必要部署發布。只要弄好本地的預覽，然後同步到雲端，等我死掉興許有人會看到，看不到就算了。這樣也算是留下了一點痕跡。雖然比在沙灘上寫字好不了多少，但人生何嘗不就是在沙灘上寫字呢。所有試圖留下點什麼的行為都是徒勞。
 20:15 PM 设置了一下 Obsidian 的 QuickAdd 插件，这样可以直接在日记下面添加这样的记录，也不用每次都用 Hugo 创建新帖子了，可以直接用 Obsidian 写了，只需要偶尔上传 commits 就好了。
 QuickAdd 的 Capture Format 设置很简单：
@@ -152,10 +172,10 @@ QuickAdd 的 Capture Format 设置很简单：
     
     <item>
       <title>lifelog - A Nice Old Lady</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-03-28/</link>
+      <link>https://dearbojack.github.io/decode/2023-03-28/</link>
       <pubDate>Tue, 28 Mar 2023 18:30:24 +0100</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-03-28/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-03-28/</guid>
       <description>昨天下午去廠區的公車上太陽很好，暖烘烘的，曬得人有點暈。旁邊的老者人很好，前面的孩子咳嗽，她走過去遞紙巾。車子突然啓動，旁邊的人沒站穩，她伸手去扶。還分糖給我吃，但我不習慣吃別人給的東西。
 可能是太陽光太强，手機亮度太高，到了廠區手機竟然用掉了一多半的電量。搞得一晚上都戰戰兢兢不怎麽敢刷推了。
 不知道爲什麽廠裏這麽多羅馬尼亞人，這個應該有什麽歷史問題。
@@ -166,10 +186,10 @@ QuickAdd 的 Capture Format 设置很简单：
     
     <item>
       <title>lifelog - Some Days</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-24/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-24/</link>
       <pubDate>Fri, 24 Feb 2023 14:56:53 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-24/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-24/</guid>
       <description>據說接下來幾週英國會出現蔬菜短缺，昨天去超市買了接近四十镑的東西，好在有減五鎊的活動。
 滷肉 沒買五花肉了，腥味太大，買了豬肩肉，看網上基本上都是用來做豬排的。拿回家做了滷肉，把之前刮掉肉的雞腿骨頭放一起，又放了些國內寄過來的豆腐串。滷料用的是買豆腐串贈送的，加老抽上色，三勺，加了之前在莫里森買的橘子醬，一股陳皮的味道，再加上鹽，生抽，兩顆大蒜，煮好，放了一晚上，第二天嚐嚐，太好吃了。
 豆角意麵 雞腿上刮下來的肉，切丁，豆角切斜刀，意麵提前煮好放涼水，豆角和雞肉炒到八分熟，放入意麵，在鍋裡翻炒兩三分鐘，看到意麵變得黏連就基本可以出鍋了。味道有點像燜面，無奈這裡的鍋太小，燜面是根本無法完成的任務。
@@ -187,10 +207,10 @@ Mac mini 買了新的 M2 的最低配置的機器，價錢比國內的教育優�
     
     <item>
       <title>lifelog - Demont Buffet</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-16/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-16/</link>
       <pubDate>Thu, 16 Feb 2023 23:01:50 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-16/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-16/</guid>
       <description>今天去外面吃飯，東北人開的，在Tesco那邊。火鍋加燒烤的自助。東西都不錯，肉和蝦都很新鮮，烤肉蘸料和自己配的火鍋蘸料都很正宗，一頓吃下來很飽。
 來英國以後很少在外面吃飯，一個是確實也不怎麼好吃，一個是太貴了。今天這個是彪子國內的朋友送給她的情人節禮物。我沾光了。
 晚上還是前端的課程，還是ES6的一些新的特性。因為作業昨天已經做完了，所以也沒怎麼上心。在 Freecodecamp上刷題，沒曾想還就抽到我回答問題。太巧了。
@@ -199,10 +219,10 @@ Mac mini 買了新的 M2 的最低配置的機器，價錢比國內的教育優�
     
     <item>
       <title>lifelog - Plain Day</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-15/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-15/</link>
       <pubDate>Wed, 15 Feb 2023 22:40:50 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-15/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-15/</guid>
       <description>早上四五點下樓，睡不着。沒有帶手柄，所以就索性把這周的前端的課程作業做了。是用 node.js 的一個包做一個命令行的 README 生成器。
 中午吃了土豆絲，裏面的小辣椒超級辣。下午去了 Lidl ，買了一些東西。外面天氣不冷，已經開始猶豫要不要穿羽絨服了。
 晚上吃的方便麪，加了意大利麪，不得不說這裏的意大利麪很勁道，有點像硬硬的米粉。
@@ -212,10 +232,10 @@ Mac mini 買了新的 M2 的最低配置的機器，價錢比國內的教育優�
     
     <item>
       <title>lifelog - Fry Noodle</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-11/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-11/</link>
       <pubDate>Sat, 11 Feb 2023 09:07:02 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-11/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-11/</guid>
       <description>星期六的早上，還是四點多快五點就醒了，我這個生物鐘應該是上夜班上的壞掉了。可能得買點助眠的藥吃了。
 昨天沒有上班，做了豆角炒意大利麵吃，味道很不錯。然後發現了一個訣竅，拌麵在鍋裏多拌一會就成了炒麵。
 晚上做了前端訓練營的展演，最後項目得了兩個第二，但是實用性只得了三票，哈哈。看來解決的問題不夠實際，沒什麽人會用。但我個人覺得還好啊，如果研究某個國家某個時期的專家，也還是可能會用到的啊。比如我對60年代美國如何報道中國的情況還是很感興趣的，就可以用一用。
@@ -225,10 +245,10 @@ Anyway，這個事情已經告一段落。接下來要學習 Node.js 和 React �
     
     <item>
       <title>lifelog - A Surprise</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-10/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-10/</link>
       <pubDate>Fri, 10 Feb 2023 07:30:53 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-10/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-10/</guid>
       <description>昨天 BOOTCAMP 的小組作業展演，正好沒趕上。我們小組是第九個，到了八點五十該到我們了，但是老師講不能太 rush，不然對我們這個小組不太公平。所以就成了今天第一個了。我謝謝他。
 不過本來以爲今天要去上班，但是發現今天倉庫 SHUTDOWN，無需上班，也就不需要請假了。
 (turned out i was wrong, the site was not shutdown this day.)
@@ -238,38 +258,21 @@ the best thing in life is you thought it was working day but it turned out you d
     
     <item>
       <title>lifelog - Seek for fun</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-09/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-09/</link>
       <pubDate>Thu, 09 Feb 2023 08:27:01 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-09/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-09/</guid>
       <description>繁體輸入法試了不少，看來看去還就是系統自帶的好用一些。這些日子使用下來，微軟的操作系統除了字體渲染一如既往地差，其他方面可以説是越用越順手了。
 不過還是會覬覦新的蘋果電腦。可能就是人内心的那種無聊的總要買些新東西的欲望的吧。
 人是最受不了無聊的。一旦生活歸於千篇一律的樣子，就會想著找點什麽新東西。叔本華說的好啊，人生就在痛苦和無聊之間搖擺。</description>
     </item>
     
     <item>
-      <title>lifelog - 001</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-08-001/</link>
-      <pubDate>Wed, 08 Feb 2023 09:26:38 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-08-001/</guid>
-      <description>星期三的早上。
-今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。
-晚上沒有睡好，做了個奇奇怪怪的夢。正要跟人打起來的時候就醒了。應該是昨天上完夜班，今天時差還沒倒過來。昨天晚上的前端課程做小組項目搞到很晚，看到後面頭都有點暈了。最後想想已經不錯了，除了已知的bug沒有別的什麽問題了。
-四點多就起來下樓去了，想做一個人生進度的網站，剛剛做了個開頭，然後想想搜了一下，發現已經有人做出來好幾年了，我還想著可以賺點贊賞呢。異想天開。看別人的代碼，想想自己就連這也得寫個好多天。又有半途而廢的念頭了。
-然後就去玩《死亡擱淺》送快遞了。
-08:53 am
-hahaha
-08:53 am
-again</description>
-    </item>
-    
-    <item>
       <title>lifelog - Late</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-02-08/</link>
+      <link>https://dearbojack.github.io/decode/2023-02-08/</link>
       <pubDate>Wed, 08 Feb 2023 09:26:38 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-02-08/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-02-08/</guid>
       <description>星期三的早上。
 今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。
 晚上沒有睡好，做了個奇奇怪怪的夢。正要跟人打起來的時候就醒了。應該是昨天上完夜班，今天時差還沒倒過來。昨天晚上的前端課程做小組項目搞到很晚，看到後面頭都有點暈了。最後想想已經不錯了，除了已知的bug沒有別的什麽問題了。
@@ -279,10 +282,10 @@ again</description>
     
     <item>
       <title>lifelog - Trip to Bull Ring</title>
-      <link>https://dearbojack.github.io/decode/journal/2022-10-08/</link>
+      <link>https://dearbojack.github.io/decode/2022-10-08/</link>
       <pubDate>Sat, 08 Oct 2022 08:15:25 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2022-10-08/</guid>
+      <guid>https://dearbojack.github.io/decode/2022-10-08/</guid>
       <description>第五天 8号 周六，因为中介不上班，坐火车去伯明翰跑了一圈。比莱斯特大很多的城市。也更正常的一些。没有那么多的印度人和巴基斯坦人。中国人更多一些。有个圣马丁教堂，里面会讲到纪念伯明翰空袭，可能是二战的时候德国对这里空袭的比较严重吧，毕竟这里是一大片平原，距离海岸也更近一些？
 路边没有公共厕所，找了很久，去了附近的一个儿童医院里面上厕所。
 去吃了一个烧鸭饭的中餐，很贵，对比中国物价的话特别贵，可能成本也更高一些。然后附近有一个开放的菜市场，去逛了逛，五颜六色的人，高高低低的叫卖声，录了几段视频。
@@ -293,10 +296,10 @@ again</description>
     
     <item>
       <title>lifelog - Registration</title>
-      <link>https://dearbojack.github.io/decode/journal/2022-10-05/</link>
+      <link>https://dearbojack.github.io/decode/2022-10-05/</link>
       <pubDate>Wed, 05 Oct 2022 08:11:30 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2022-10-05/</guid>
+      <guid>https://dearbojack.github.io/decode/2022-10-05/</guid>
       <description>去学校注册，沿着 University Rd 一直走就好了，房子看了几个零星回邮件，说流程很长。去他妈的。
 路过 De Montfort 广场，路过一个墓地，左手就是，上坡就是学生注册的大楼，进去排队，有印度小伙子过来味是不是领学生卡的地方，“应该是”。还是领 BRP 的地方的。
 排队没什么事情攀谈了几句。说他在 Milton Kaynes 过来要两个小时，说莱斯特最近有骚乱，（后来查了查是印度人和穆斯林？在板球比赛之后干了起来），也不太懂。
@@ -306,10 +309,10 @@ again</description>
     
     <item>
       <title>lifelog - Arrive in UK</title>
-      <link>https://dearbojack.github.io/decode/journal/2022-10-04/</link>
+      <link>https://dearbojack.github.io/decode/2022-10-04/</link>
       <pubDate>Tue, 04 Oct 2022 08:12:54 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2022-10-04/</guid>
+      <guid>https://dearbojack.github.io/decode/2022-10-04/</guid>
       <description>早上到希思罗机场，过海关有人指导去学生专用通道，很快就过了，海关大叔是英国人，开了几句玩笑，强调了一下 no public funds 等等就出来了。
 插电话卡，激活，等行李，拿上行李找大巴站找了一段时间，上电梯下电梯走了一段时间，终于找到，只有自助售票机，在上面买好去莱斯特的车票，看了看指示牌说去A口等着，看到乱哄哄一大排大巴，喇叭里面是印度味道的，完全听不懂说什么就直接去站台找了。
 快到1130的时候去站台上看到对应的240车，行李放好，就上车了。一路无事。英国的高速真的挤，车与车之间离得很近。看得人胆战心惊。
@@ -319,19 +322,19 @@ Hotel 比想象的小，但是五脏俱全，做饭的家伙事儿全都有，�
     
     <item>
       <title>lifelog - Trip to 浙西大峡谷</title>
-      <link>https://dearbojack.github.io/decode/journal/2022-06-05/</link>
+      <link>https://dearbojack.github.io/decode/2022-06-05/</link>
       <pubDate>Sun, 05 Jun 2022 08:50:27 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2022-06-05/</guid>
+      <guid>https://dearbojack.github.io/decode/2022-06-05/</guid>
       <description>for the Dragon boat Holiday, we went to 浙西大峡谷 again. another hotel in the same village. it&amp;rsquo;s about 130 km from Hangzhou, a lil bit far away; 2 hours drive. the weather was cloudy and rainy those days, but sometimes the sun came out, and it can be sunny for a while. didn&amp;rsquo;t go to any scenic spots, just the valley down the village and the river and the stony beach.</description>
     </item>
     
     <item>
       <title>lifelog - Focus</title>
-      <link>https://dearbojack.github.io/decode/journal/2022-03-25/</link>
+      <link>https://dearbojack.github.io/decode/2022-03-25/</link>
       <pubDate>Fri, 25 Mar 2022 08:18:17 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2022-03-25/</guid>
+      <guid>https://dearbojack.github.io/decode/2022-03-25/</guid>
       <description>1 发现自己很难集中自己的精力，或者说注意力。无法很集中地做一件事情，做很长时间。是因为周围的声音太多吗。可能也不是，因为这些声音虽然在哪里，但是我其实并不关心他们在谈什么，跟我并没有太大的关系，如果可以的话，我可以置若罔闻。
 其实，就是晚上躺在床上睡觉的时候也无法安安静静地去集中注意力思考某一个问题，去想自己什么时候可以把自己的债务弄完，去想什么时候可以出国，什么时候可以做自己喜欢的事情。其实已经一大把的年纪了，但是什么时候才能过上自己想要的生活呢。有时候，会很感激自己现在还活着。其实，可能，很可能在另一个平行宇宙里面，我已经死亡了。
 在我的尸体上闪着一点白光，别人可以见到一个无用的灵魂。虽然你自鸣得意地坚持了很多事情，放弃了什么，坚持了什么，做过什么，没做过什么，对别人都没有什么大的意义。你的事情，总归跟我是没有太大的关系的。

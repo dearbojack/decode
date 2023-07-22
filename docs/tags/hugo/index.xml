@@ -6,13 +6,22 @@
     <description>Recent content in hugo on Decode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2023 09:42:23 +0100</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lifelog - Hugo Minor Tweaks</title>
+      <link>https://dearbojack.github.io/decode/2023-07-22-tweak-hugo/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/2023-07-22-tweak-hugo/</guid>
+      <description>It is such a pain in the ass to tweak hugo around. Every time when you think everything is okay, then some other stuff came up and you had to spend some extra time to fix. And the syntax of go is so hard to read, nearly unreadable. And I want to say, so this is it, good or bad, this is the final look of the blog. I will write for some years and to see if there is any need to make it better.</description>
+    </item>
+    
     <item>
       <title>lifelog - New Start</title>
-      <link>https://dearbojack.github.io/decode/journal/2023-04-05/</link>
+      <link>https://dearbojack.github.io/decode/2023-04-05/</link>
       <pubDate>Wed, 05 Apr 2023 09:42:23 +0100</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/journal/2023-04-05/</guid>
+      <guid>https://dearbojack.github.io/decode/2023-04-05/</guid>
       <description>是的，又重新開始了。一個中文博客寫日記，一個英文博客寫編碼，搞了好久部署沒有搞定。後來想想，完全沒有必要啊，中文的日記其實都是比較私人的東西，沒有必要部署發布。只要弄好本地的預覽，然後同步到雲端，等我死掉興許有人會看到，看不到就算了。這樣也算是留下了一點痕跡。雖然比在沙灘上寫字好不了多少，但人生何嘗不就是在沙灘上寫字呢。所有試圖留下點什麼的行為都是徒勞。
 20:15 PM 设置了一下 Obsidian 的 QuickAdd 插件，这样可以直接在日记下面添加这样的记录，也不用每次都用 Hugo 创建新帖子了，可以直接用 Obsidian 写了，只需要偶尔上传 commits 就好了。
 QuickAdd 的 Capture Format 设置很简单：

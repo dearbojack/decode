@@ -44,10 +44,10 @@ EOF
       hugo new "$file_path" "journal"
       cat > "$file_path" << EOF
 ---
-title: "lifelog - $file_name"
+title: "$file_name &"
 date: "$(date +"%Y-%m-%d")"
 author: "Dali Han"
-tags: [$tags]
+tags: [$tags, log]
 categories:
     - journal
 ---

@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>journal</title>
+      <link>https://dearbojack.github.io/decode/categories/journal/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>post</title>
       <link>https://dearbojack.github.io/decode/categories/post/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
@@ -22,15 +31,6 @@
       <pubDate>Wed, 19 Jul 2023 17:51:52 +0100</pubDate>
       
       <guid>https://dearbojack.github.io/decode/categories/note/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
-      <link>https://dearbojack.github.io/decode/categories/journal/</link>
-      <pubDate>Wed, 05 Apr 2023 09:42:23 +0100</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/categories/journal/</guid>
       <description></description>
     </item>
     
