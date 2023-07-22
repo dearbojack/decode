@@ -13,14 +13,13 @@ enableGitInfo: true
 permalinks:
   note: /note/:year/:month/:day/:slug/
   post: /post/:year/:month/:day/:slug/
-  tags: /decode/tags/:slug/
-  categories: /decode/categories/:slug/
 
 menu:
   main:
     - name: "Home"
       url: "/"
       weight: 1
+<<<<<<< HEAD
     - name: "About"
       url: "/about/"
       weight: 2
@@ -30,6 +29,14 @@ menu:
     # - name: "Categories"
     #   url: "/categories/"
     #   weight: 4
+=======
+    # - name: "About"
+    #   url: "/about/"
+      # weight: 2
+    # - name: "Tags"
+    #   url: "/tags/"
+    #   weight: 3
+>>>>>>> parent of 61de43a (update)
     - name: "Subscribe"
       url: "/index.xml"
 
@@ -39,3 +46,19 @@ params:
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
+
+markup:
+  highlight:
+    codeFences: false
+    style: monokai
+    tabWidth: 2
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+  goldmark:
+    extensions:
+      footnote: true
+      taskList: true
+      table: true
+    renderer:
+      unsafe: true

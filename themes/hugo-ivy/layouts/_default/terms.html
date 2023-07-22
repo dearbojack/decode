@@ -3,7 +3,6 @@
 <ul class="terms">
   {{ range $key, $value := .Data.Terms }}
   <li>
-    <!-- here we can change the link for pages under tags/categories -->
     <a href="{{ (print "/" $.Data.Plural "/" $key | urlize) | relURL }}">
       {{ $key }}
     </a>
