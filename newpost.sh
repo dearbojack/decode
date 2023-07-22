@@ -17,7 +17,7 @@ case $post_type in
       cat > "$file_path" << EOF
 ---
 title: "$file_name"
-date: "$(date +"%Y-%m-%dT%H:%M:%S%:z")"
+date: "$(date +"%Y-%m-%d")"
 author: "Dali Han"
 tags: [$tags]
 categories:
@@ -31,7 +31,7 @@ EOF
       cat > "$file_path" << EOF
 ---
 title: "$file_name"
-date: "$(date +"%Y-%m-%dT%H:%M:%S%:z")"
+date: "$(date +"%Y-%m-%d")"
 author: "Dali Han"
 tags: [$tags]
 categories:
@@ -45,7 +45,7 @@ EOF
       cat > "$file_path" << EOF
 ---
 title: "lifelog - $file_name"
-date: "$(date +"%Y-%m-%dT%H:%M:%S%:z")"
+date: "$(date +"%Y-%m-%d")"
 author: "Dali Han"
 tags: [$tags]
 categories:

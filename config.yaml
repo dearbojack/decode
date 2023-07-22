@@ -19,24 +19,12 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-<<<<<<< HEAD
     - name: "About"
       url: "/about/"
       weight: 2
     - name: "Tags"
       url: "/tags/"
       weight: 3
-    # - name: "Categories"
-    #   url: "/categories/"
-    #   weight: 4
-=======
-    # - name: "About"
-    #   url: "/about/"
-      # weight: 2
-    # - name: "Tags"
-    #   url: "/tags/"
-    #   weight: 3
->>>>>>> parent of 61de43a (update)
     - name: "Subscribe"
       url: "/index.xml"
 

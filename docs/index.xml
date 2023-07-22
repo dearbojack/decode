@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Decode</title>
+    <link>https://dearbojack.github.io/decode/</link>
+    <description>Recent content in Home on Decode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dearbojack.github.io/decode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL: Typed.js</title>
+      <link>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
+      <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
+You can get a typewriter effect and deletion effect with simple code like below (in a react project):
+import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
+    </item>
+    
+    <item>
+      <title>About The Guy Behind</title>
+      <link>https://dearbojack.github.io/decode/about/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/about/</guid>
+      <description>This regular guy loves playing good games. Life&amp;rsquo;s about experiences and you can have unique experiences by playing good games. So, why not give it a shot? This guy also enjoys fiddling with codes. He hasn&amp;rsquo;t made anything big yet, but he&amp;rsquo;s still trying. He thinks a lot and wants to write those quick thoughts down, so they stick around a bit longer, even if they&amp;rsquo;re just silly doodles on the sand.</description>
+    </item>
+    
+    <item>
+      <title>On the life of human</title>
+      <link>https://dearbojack.github.io/decode/note/2023/07/19/on-the-life-of-human/</link>
+      <pubDate>Wed, 19 Jul 2023 17:51:52 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/07/19/on-the-life-of-human/</guid>
+      <description>人一生下来就开始了一个无法停下来的“生产线”。你必须吃东西，然后就会拉。一开始还有有人喂你吃，找来食物给你吃，等大了，你就需要自己找吃的了，为了吃的，你就必须得找个工作做，赚钱，吃东西，拉。这个过程永远停不下来，知道你不需要吃了，你死了。
+而且，只要人活着就会产生垃圾，一刻不停。因为你吃完就会拉，甚至不吃也会。然后吃的东西会产生垃圾。人体也会有各种分泌物。然后你自己为了寻找吃的，为了赚钱买吃的，还会产生更多的垃圾。所有这些，换位成地球，我都觉得头大。好烦啊。</description>
+    </item>
+    
+    <item>
+      <title>Writing Therapy</title>
+      <link>https://dearbojack.github.io/decode/note/2023/07/18/writing-therapy/</link>
+      <pubDate>Tue, 18 Jul 2023 22:48:34 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/07/18/writing-therapy/</guid>
+      <description>Writing is relaxing.
+When you feel drown by anxiety, just sit down and start writing something. About what? It doesn&amp;rsquo;t matter. There is paid classes on social media called &amp;ldquo;mindful writing&amp;rdquo;. Though I would never pay for that, but I agree with the idea behind the classes. Writing is the easiest way to get into the &amp;ldquo;flowing&amp;rdquo; state, which is sought after by most people who practice mindful related things.</description>
+    </item>
+    
+    <item>
+      <title>No Autopilot Life</title>
+      <link>https://dearbojack.github.io/decode/note/2023/07/18/no-autopilot-life/</link>
+      <pubDate>Tue, 18 Jul 2023 00:30:33 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/07/18/no-autopilot-life/</guid>
+      <description>You need to stop and look at your own life every now and then, otherwise it will slip into autopilot mode, which is really bad.
+You would pick up the addiction you spent so long to quit. And all the momentum you built up will be gone.</description>
+    </item>
+    
+    <item>
+      <title>My Will</title>
+      <link>https://dearbojack.github.io/decode/note/2023/07/04/my-will/</link>
+      <pubDate>Tue, 04 Jul 2023 22:37:25 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/07/04/my-will/</guid>
+      <description>如果我突然离世，我会有什么最后的话想跟这个世界说的呢？
+最近在推特上关注的一个技术圈的大佬忽然离世，让我颇为震动。虽然并不认识，但就好像是前几天的晚上还看到他在发布一些日常的状态，然后突然人没了，这个账号永远再也不会更新了。他是不是还有些话想说呢？
+其实我自己并不害怕“死亡”，我更怕的其实是周围人的“死亡”，那些自己熟悉的人突然消失不见了。这个让人不知道该如何面对，如何接受。
+想想如果自己突然心梗，会有什么话还要说吗？有什么没做的想做的事已经不重要了，所以到了现在这个年纪忽然就要想想该写遗书了？把自己特别想说的话先写下来，这样自己突然噶了也就没什么需要死不瞑目了。</description>
+    </item>
+    
+    <item>
+      <title>Mallorca</title>
+      <link>https://dearbojack.github.io/decode/note/2023/07/03/mallorca/</link>
+      <pubDate>Mon, 03 Jul 2023 01:07:03 +0200</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/07/03/mallorca/</guid>
+      <description>Still at the airport of Mallorca. Delayed for more than 3 hours. Shouldnt say that the last delay was the longest. Skin was burned on the head, back and chest. Need time to heal.
+It turned out to be the longest delay I&amp;rsquo;ve ever experienced till now. We didn&amp;rsquo;t arrive at London till 3 am. Then we had to wait till 10am for the bus because that&amp;rsquo;s the earliest bus to my place (rail service was on strike that day).</description>
+    </item>
+    
+    <item>
+      <title>Barcelona</title>
+      <link>https://dearbojack.github.io/decode/note/2023/06/29/barcelona/</link>
+      <pubDate>Thu, 29 Jun 2023 19:28:34 +0200</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/06/29/barcelona/</guid>
+      <description>@BCN Airport now. Flight delayed for more than 1 hour already. Still waiting. Wasted a whole afternoon here.
+之前在Ins上看到过很多巴塞罗那的照片，全都是暖色调的，整整齐齐的城市等等。这次来转了一天多一点，并没有什么好印象。人太多了，天气又热，作为游客，公共交通上人多的一塌糊涂。从来没坐。
+去了高迪的圣家堂，很高，很惊艳，外面和里面的设计都很牛。这就是《文明》游戏里面所谓的人类历史上的“奇观”吧。另外的，并没有什么留下深刻的印象。还去了毕加索博物馆，一个小巷子里面，都是手稿，买票的时候，工作人员给了学生票，15欧。出来之后在巷子里旁边的一家小店吃了东西，60欧。菜单全都看不懂。
+住在海边的一个酒店，挺远，设备挺老，挺不爽的是当天酒店的预订价格竟然比自己提前一个月订的要便宜。旁边5分钟就可以走到海边，柏油路晒得热热的。彪的鞋子不合脚，脚破了，后来就索性光着脚走了。
+海边人很多，第二天看日出的时候发现竟然有人搭了帐篷就住在沙滩上。因为第二天就要收拾东西走了，所以就没有多转。在酒店旁边的一个饭馆吃了饭，海鲜饭咸死。其他还好，油煎辣椒不错。交通不方便。米兰之家巴蒂略之家都没去，然后桂尔公园大老远去了没有票了，就只好悻悻坐车去赶飞机了。
+什么破地方。</description>
+    </item>
+    
+    <item>
+      <title>Amsterdam</title>
+      <link>https://dearbojack.github.io/decode/note/2023/06/28/amsterdam/</link>
+      <pubDate>Wed, 28 Jun 2023 09:24:56 +0200</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/06/28/amsterdam/</guid>
+      <description>On the vueling plane from Amsterdam to Barcelona.
+For the last two days, we were in Amsterdam. Not a very pleasant tour at the beginning I have to say. We were stopped by the sulky girl at border control.
+因为在海关被拦住，所以心情一直很差。住在城市边缘一个火车站边上的酒店，交通还算方便，相比起英国的破公共交通，荷兰的真的算是堪比国内了，火车、地铁、轻轨、公交车一应俱全，虽然价格比较贵就是了。
+现在回想起来，可能在荷兰的两天算是真正的游客状态。去了国家博物馆，梵高没有票了所以没去，去了风车村，很小一些村子，随便转了转，坐了一圈运河的船。吃了猪肘子，没吃完打包，回去又吃了一顿才吃掉。然后还吃了很贵的湖南米线，然后去了旁边的红灯街，因为没去小粉象所以彪一直拉着脸。我也不知道有什么好看的。
+第三天一大早坐火车去机场赶巴塞罗那的飞机，比较幸运，没怎么延误。</description>
+    </item>
+    
+    <item>
+      <title>All is Habit</title>
+      <link>https://dearbojack.github.io/decode/note/2023/06/23/all-is-habit/</link>
+      <pubDate>Fri, 23 Jun 2023 22:55:16 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/06/23/all-is-habit/</guid>
+      <description>Everything is a habit. Depression is a habit. Being confident is a habit. Failing is a habit. Making money is a habit. Gambling is a habit. Saving evry bit of money is a habit. Quiting is a habit.
+You are just so used to it that you don&amp;rsquo;t feel it when you do it.
+Anxiety is also a habit. When you talk about changing, you are talking about quiting a habit and build up a new habit.</description>
+    </item>
+    
+    <item>
+      <title>You Create the Meaning</title>
+      <link>https://dearbojack.github.io/decode/note/2023/06/18/you-create-the-meaning/</link>
+      <pubDate>Sun, 18 Jun 2023 19:22:13 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/06/18/you-create-the-meaning/</guid>
+      <description>The meaning of life, this is the thing everyone thinks now and then. I thought about it a lot (perhaps too much) when I was in high school. And that was the worst time of my life so far.
+Later, for no reason, I let go of the question (what is the meaning of life) and tried to walk the road of life as a common guy.
+Today, after so many years, the answer of that question have flashed in my head many times.</description>
+    </item>
+    
+    <item>
+      <title>Life is an experience</title>
+      <link>https://dearbojack.github.io/decode/note/2023/06/18/life-is-an-experience/</link>
+      <pubDate>Sun, 18 Jun 2023 19:13:07 +0100</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/06/18/life-is-an-experience/</guid>
+      <description>We can live only once. All in all, your experience determines the quality of your life. That is to say, it is subjective (not objective). So we can fool ourselves into a better life.
+You have the most compeletely life if you experienced the most kinds of lives, good, bad, happy, unhappy, dangerous, safe, poor or rich, girl or boy.
+But, that is a slippery slope. You can have the experience of a murderer and be sentenced to death.</description>
+    </item>
+    
+    <item>
+      <title>lifelog - 001</title>
+      <link>https://dearbojack.github.io/decode/journal/2023-02-08-001/</link>
+      <pubDate>Wed, 08 Feb 2023 09:26:38 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/journal/2023-02-08-001/</guid>
+      <description>星期三的早上。
+今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。
+晚上沒有睡好，做了個奇奇怪怪的夢。正要跟人打起來的時候就醒了。應該是昨天上完夜班，今天時差還沒倒過來。昨天晚上的前端課程做小組項目搞到很晚，看到後面頭都有點暈了。最後想想已經不錯了，除了已知的bug沒有別的什麽問題了。
+四點多就起來下樓去了，想做一個人生進度的網站，剛剛做了個開頭，然後想想搜了一下，發現已經有人做出來好幾年了，我還想著可以賺點贊賞呢。異想天開。看別人的代碼，想想自己就連這也得寫個好多天。又有半途而廢的念頭了。
+然後就去玩《死亡擱淺》送快遞了。
+08:53 am
+hahaha
+08:53 am
+again</description>
+    </item>
+    
+  </channel>
+</rss>

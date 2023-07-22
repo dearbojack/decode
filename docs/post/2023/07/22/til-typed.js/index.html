@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>TIL: Typed.js - Decode</title>
+    <meta property="og:title" content="TIL: Typed.js - Decode">
+    
+    <meta name="twitter:card" content="summary">
+
+    
+    
+      
+    
+
+    
+      
+      <meta property="description" content="Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
+You can get a typewriter effect and deletion effect with simple code like below (in a react project): &amp;hellip;">
+      <meta property="og:description" content="Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
+You can get a typewriter effect and deletion effect with simple code like below (in a react project): &amp;hellip;">
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/github.min.css">
+
+
+
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/style.css" />
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/fonts.css" />
+    
+  </head>
+  <body class="decode">
+    <header class="masthead">
+      
+<h1 class="site-title"><a href="https://dearbojack.github.io/decode">Decode</a></h1>
+
+
+<p class="tagline">How I live my life</p>
+
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" hidden/>
+  <label id="menu-label" for="menu-check" class="unselectable" hidden>
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
+  
+  
+  <li><a href="/decode/">Home</a></li>
+  
+  <li><a href="/decode/about/">About</a></li>
+  
+  <li><a href="/decode/tags/">Tags</a></li>
+  
+  <li><a href="/decode/index.xml">Subscribe</a></li>
+  
+  
+  </ul>
+</nav>
+
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>TIL: Typed.js</h1>
+
+
+
+<h3>
+
+Dali Han
+
+
+
+
+
+
+ @ 
+Saturday, 22 July 2023
+</h3>
+
+<hr>
+
+
+      </header>
+
+
+
+
+
+<p>Today, I learned how to use <code>react-typed</code>. It is really simple, but the result is quite fancy.</p>
+<p>You can get a typewriter effect and deletion effect with simple code like below (in a react project):</p>
+<pre><code class="language-js">import React from 'react';
+import Typed from 'react-typed';
+
+const Hero = () =&gt; {
+  return (
+    &lt;div className='text-white'&gt;
+        &lt;div&gt;
+          &lt;p&gt;You can easily earn money for&lt;/p&gt;
+          &lt;Typed 
+            strings={['me', 'you', 'all']} 
+            typeSpeed={120} 
+            backSpeed={160} 
+            loop
+          /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  )
+}
+
+export default Hero
+</code></pre>
+<p>So I did a search and found that <a href="https://www.npmjs.com/package/react-typed"><code>react-typed</code></a> is a wrapper around the original <a href="https://github.com/mattboldt/typed.js"><code>Typed.js</code></a>.</p>
+
+
+
+  <footer>
+  
+  
+
+
+
+
+
+
+
+<script src="//cdn.jsdelivr.net/combine/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js,npm/@xiee/utils/js/load-highlight.js" defer></script>
+
+
+
+  
+  <hr>
+  <div class="copyright">© Dali Han 2023 | <a href="https://github.com/dearbojack">Github</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
+
