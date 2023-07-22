@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dearbojack.github.io/decode/tags/blog/</loc>
-    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dearbojack.github.io/decode/categories/</loc>
-    <lastmod>2023-07-22T19:49:05+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/hugo/</loc>
-    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
@@ -23,10 +17,7 @@
     <loc>https://dearbojack.github.io/decode/tags/learn/</loc>
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-07-22-tweak-hugo/</loc>
-    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/journal/2023-07-22-test/</loc>
+    <loc>https://dearbojack.github.io/decode/journal/2023/07/22/live-out-loud/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/log/</loc>
@@ -45,7 +36,7 @@
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/</loc>
-    <lastmod>2023-07-22T19:49:05+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</loc>
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
@@ -63,10 +54,10 @@
     <lastmod>2023-07-19T18:12:55+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/categories/note/</loc>
-    <lastmod>2023-07-20T21:11:08+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/</loc>
-    <lastmod>2023-07-20T21:11:08+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2023/07/19/on-the-life-of-human/</loc>
     <lastmod>2023-07-19T18:12:55+01:00</lastmod>
@@ -84,16 +75,16 @@
     <lastmod>2023-07-20T21:11:08+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/cities/</loc>
-    <lastmod>2023-07-19T18:12:55+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2023/07/03/mallorca/</loc>
     <lastmod>2023-07-18T20:59:53+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/memories/</loc>
-    <lastmod>2023-07-19T18:12:55+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2023/06/29/barcelona/</loc>
-    <lastmod>2023-07-19T18:12:55+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2023/06/28/amsterdam/</loc>
     <lastmod>2023-07-19T18:12:55+01:00</lastmod>
@@ -109,66 +100,6 @@
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2023/06/18/life-is-an-experience/</loc>
     <lastmod>2023-06-18T19:36:50+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-04-05/</loc>
-    <lastmod>2023-04-05T09:42:23+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/obsidian/</loc>
-    <lastmod>2023-04-05T09:42:23+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-03-28/</loc>
-    <lastmod>2023-03-28T18:30:24+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-24/</loc>
-    <lastmod>2023-02-24T14:56:53+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-16/</loc>
-    <lastmod>2023-02-16T23:01:50+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-15/</loc>
-    <lastmod>2023-02-15T22:40:50+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-11/</loc>
-    <lastmod>2023-02-11T09:07:02+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/spaghetti/</loc>
-    <lastmod>2023-02-11T09:07:02+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-10/</loc>
-    <lastmod>2023-02-10T07:30:53+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/reactjs/</loc>
-    <lastmod>2023-02-10T07:30:53+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/ime/</loc>
-    <lastmod>2023-02-09T08:27:01+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-09/</loc>
-    <lastmod>2023-02-09T08:27:01+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/blogdown/</loc>
-    <lastmod>2023-02-08T09:26:38+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2023-02-08/</loc>
-    <lastmod>2023-02-08T09:26:38+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2022-10-08/</loc>
-    <lastmod>2022-10-08T08:15:25+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2022-10-05/</loc>
-    <lastmod>2022-10-05T08:11:30+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2022-10-04/</loc>
-    <lastmod>2022-10-04T08:12:54+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2022-06-05/</loc>
-    <lastmod>2022-06-05T08:50:27+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/elden-ring/</loc>
-    <lastmod>2022-03-25T08:18:17+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/2022-03-25/</loc>
-    <lastmod>2022-03-25T08:18:17+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/</loc>
     <lastmod>2023-07-22T16:48:10+01:00</lastmod>

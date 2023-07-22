@@ -13,6 +13,7 @@ enableGitInfo: true
 permalinks:
   note: /note/:year/:month/:day/:slug/
   post: /post/:year/:month/:day/:slug/
+  journal: /journal/:year/:month/:day/:slug/
 
 menu:
   main:
@@ -22,9 +23,10 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 2
-    - name: "Tags"
-      url: "/tags/"
-      weight: 3
+    # let's remove all this and keep it simple
+    # - name: "Tags"
+    #   url: "/tags/"
+    #   weight: 3
     - name: "Subscribe"
       url: "/index.xml"
 
