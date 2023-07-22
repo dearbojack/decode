@@ -3,7 +3,8 @@
 <ul class="terms">
   {{ range $key, $value := .Data.Terms }}
   <li>
-    <a href="{{ (print "/" $.Data.Plural "/" $key | urlize) | relURL }}">
+    <!-- tag pages links fix -->
+    <a href="{{ (print "decode/" $.Data.Plural "/" $key | urlize) | relURL }}">
       {{ $key }}
     </a>
     ({{ len $value }})
