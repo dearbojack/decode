@@ -5,7 +5,8 @@
 <ul>
   {{ range (where (cond .IsHome .Site.RegularPages .Pages) "Section" "!=" "") }}
   <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+    <!-- tag pages links fix -->
+    <!-- span class="date">{{ .Date.Format "2006/01/02" }}</span> -->
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </li>
   {{ end }}
