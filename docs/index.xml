@@ -19,7 +19,19 @@
 从杭州开车回家里，一路上大猫各种叫，小家伙安安静静，一声不吭，自得其乐。因为出国，不得不把两个小东西放在家里，让爸妈帮忙养着。过了没一个月，说小短腿上了二楼，然后就丢了，好几天了，都没找到。都打算放弃了，准备接受小家伙走丢了的事实。但最后在二彪的坚持下，妈又去让隔壁邻居在家里找了一遍，最后在厕所门后的管道地下找到了，孬子头朝里，屁股朝外，一声不吭。想想胆小的它可能已经保持这样的姿势好几天了。被爸抱了回去。
 胆小，又“豪横”，腿短，但爱动，能吃，能睡，虽然笨，但学习能力强。这就是孬吧。可爱的小家伙。
 前两天妈跟我说小猫的肚子一喘一喘的，我没当回事，以为忍忍过两天天气凉了就好了。然后妈发了个让人不忍再看第二遍的视频过来，我看了下才发现事情有点严重，赶紧让他们给它擦擦水，降降温。没什么用，今天早上发来消息说没了。
-呜呼！生死我们都无法选择，谁又都想来到这世间过一遍这酸甜苦辣，孬也算解脱了。I will hold the memory of you dear. May you rest in peace. Love.</description>
+呜呼！生死我们都无法选择，谁又想来到这世间过一遍这酸甜苦辣，孬也算解脱了。I will hold the memory of you dear. May you rest in peace. Love.</description>
+    </item>
+    
+    <item>
+      <title>Quotes from Dune</title>
+      <link>https://dearbojack.github.io/decode/note/2023/07/27/quotes-from-dune/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/07/27/quotes-from-dune/</guid>
+      <description>Today, I had the chance to watch the movie Dune. While the plot may be straightforward, the film&amp;rsquo;s captivating tempo and storytelling truly grabbed my attention. So I took note of several thought-provoking lines.
+On Life: “The mystery of life isn&amp;rsquo;t a problem to solve, but a reality to experience.”
+On Fear:
+“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear.</description>
     </item>
     
     <item>
@@ -163,6 +175,17 @@ Today, after so many years, the answer of that question have flashed in my head 
       <description>We can live only once. All in all, your experience determines the quality of your life. That is to say, it is subjective (not objective). So we can fool ourselves into a better life.
 You have the most compeletely life if you experienced the most kinds of lives, good, bad, happy, unhappy, dangerous, safe, poor or rich, girl or boy.
 But, that is a slippery slope. You can have the experience of a murderer and be sentenced to death.</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>https://dearbojack.github.io/decode/post/2016/02/14/a-plain-markdown-post/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/post/2016/02/14/a-plain-markdown-post/</guid>
+      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
+1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
     </item>
     
   </channel>
