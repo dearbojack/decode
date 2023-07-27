@@ -2,14 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dearbojack.github.io/decode/post/2023/07/27/all-the-best-nao/</loc>
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dearbojack.github.io/decode/categories/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
+<<<<<<< HEAD
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/nao/</loc>
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/categories/post/</loc>
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/post/</loc>
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/</loc>
+    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
+>>>>>>> parent of 221d813 (update)
   </url><url>
     <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/journal/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/js/</loc>
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
@@ -18,26 +37,23 @@
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/journal/2023/07/22/live-out-loud/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/log/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/pain/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/post/</loc>
-    <lastmod>2023-07-22T19:49:05+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/post/</loc>
-    <lastmod>2023-07-22T19:49:05+01:00</lastmod>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/react/</loc>
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
     <loc>https://dearbojack.github.io/decode/tags/</loc>
-    <lastmod>2023-07-22T22:58:05+01:00</lastmod>
+    <lastmod>2023-07-22T20:30:37+01:00</lastmod>
   </url><url>
+>>>>>>> parent of 221d813 (update)
     <loc>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</loc>
     <lastmod>2023-07-22T19:49:05+01:00</lastmod>
   </url><url>
