@@ -2,7 +2,7 @@
 title: A Plain Markdown Post
 author: Yihui Xie
 date: '2016-02-14'
-draft: false
+draft: true
 categories:
   - Example
   - Hugo

@@ -31,18 +31,7 @@
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://dearbojack.github.io/decode/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
+import React from &#39;react&#39;;import Typed from &#39;react-typed&#39;;const Hero = () =&amp;gt; {return (&amp;lt;div className=&#39;text-white&#39;&amp;gt;&amp;lt;div&amp;gt;&amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt;&amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop/&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;)}export default HeroSo I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
   </channel>

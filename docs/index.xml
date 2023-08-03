@@ -7,6 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dearbojack.github.io/decode/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>&#39;Flight&#39; Mode</title>
+      <link>https://dearbojack.github.io/decode/note/2023/08/03/flight-mode/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/note/2023/08/03/flight-mode/</guid>
+      <description>Fight or flight? Flight, of course.
+每隔一段时间都会陷入一种“逃避”模式，that is &amp;ldquo;Flight&amp;rdquo; Mode。看到邮件、消息，心里会很怕，很沉重，不愿意回复。什么正事也不愿意做，不愿意直面自己，不愿意改简历，不愿意申请工作，不愿意上班，不愿意赚钱，反正就是什么“正事”都不想做，逃避这个，逃避那个，逃避一切。逃避可耻，也没用。因为逃避到最后，你该面对的还是要面对，所以该直面还是早点直面好。
+Face it, you can&amp;rsquo;t &amp;ldquo;flight&amp;rdquo; all your life.
+当然，道理都懂，并不代表就会行动。现在想想，其实这种模式和“Auto Pilot”的模式是一样的，随意地生活，慢慢就会随波逐流，慢慢就会变得麻木。经得起审视的人生才值得度过。所以人生是需要一些刻意的。这么想想，做人可太累了。要自己不断地向上，才能保持在原地。</description>
+    </item>
+    
+    <item>
       <title>Aversion to Changes</title>
       <link>https://dearbojack.github.io/decode/note/2023/07/30/aversion-to-changes/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
@@ -63,7 +75,7 @@ That&amp;rsquo;s it.</description>
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
+import React from &#39;react&#39;;import Typed from &#39;react-typed&#39;;const Hero = () =&amp;gt; {return (&amp;lt;div className=&#39;text-white&#39;&amp;gt;&amp;lt;div&amp;gt;&amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt;&amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop/&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;)}export default HeroSo I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
     <item>
@@ -185,17 +197,6 @@ Today, after so many years, the answer of that question have flashed in my head 
       <description>We can live only once. All in all, your experience determines the quality of your life. That is to say, it is subjective (not objective). So we can fool ourselves into a better life.
 You have the most compeletely life if you experienced the most kinds of lives, good, bad, happy, unhappy, dangerous, safe, poor or rich, girl or boy.
 But, that is a slippery slope. You can have the experience of a murderer and be sentenced to death.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://dearbojack.github.io/decode/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
     </item>
     
   </channel>
