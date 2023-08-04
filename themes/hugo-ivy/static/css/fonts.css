@@ -1,6 +1,8 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreenr.css");
+
 body {
-  font-family: Verdana, system-ui, Helvetica, sans-serif;
-  font-size: 12px;
+  font-family: Verdana, system-ui, Helvetica, "LXGW WenKai Screen R", sans-serif;
+  font-size: 1em;
 }
 code {
   font-family: "Lucida Console", 'Andale Mono', 'STKaiti', 'KaiTi', 'SimKai', monospace;

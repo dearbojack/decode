@@ -1,5 +1,5 @@
 ---
-title: About The Guy Behind
+title: About Him
 author: Dali Han
 date: '2023-07-21'
 ---
