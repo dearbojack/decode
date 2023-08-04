@@ -53,7 +53,8 @@ On Fear:
 从杭州开车回家里，一路上大猫各种叫，小家伙安安静静，一声不吭，自得其乐。因为出国，不得不把两个小东西放在家里，让爸妈帮忙养着。过了没一个月，说小短腿上了二楼，然后就丢了，好几天了，都没找到。都打算放弃了，准备接受小家伙走丢了的事实。但最后在二彪的坚持下，妈又去让隔壁邻居在家里找了一遍，最后在厕所门后的管道地下找到了，孬子头朝里，屁股朝外，一声不吭。想想胆小的它可能已经保持这样的姿势好几天了。被爸抱了回去。
 胆小，又“豪横”，腿短，但爱动，能吃，能睡，虽然笨，但学习能力强。这就是孬吧。可爱的小家伙。
 前两天妈跟我说小猫的肚子一喘一喘的，我没当回事，以为忍忍过两天天气凉了就好了。然后妈发了个让人不忍再看第二遍的视频过来，我看了下才发现事情有点严重，赶紧让他们给它擦擦水，降降温。没什么用，今天早上发来消息说没了。
-呜呼！生死我们都无法选择，谁又想来到这世间过一遍这酸甜苦辣，孬也算解脱了。I will hold the memory of you dear. May you rest in peace. Love.</description>
+呜呼！生死我们都无法选择，谁又想来到这世间过一遍这酸甜苦辣，孬也算解脱了。
+I will hold dear the memory of you. May you rest in peace. Love.</description>
     </item>
     
     <item>
@@ -75,11 +76,11 @@ That&amp;rsquo;s it.</description>
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;;import Typed from &#39;react-typed&#39;;const Hero = () =&amp;gt; {return (&amp;lt;div className=&#39;text-white&#39;&amp;gt;&amp;lt;div&amp;gt;&amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt;&amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop/&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;)}export default HeroSo I did a search and found that react-typed is a wrapper around the original Typed.</description>
+import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
     <item>
-      <title>About The Guy Behind</title>
+      <title>About Him</title>
       <link>https://dearbojack.github.io/decode/about/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       

@@ -1,7 +1,9 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreenr.css");
+
 /* Micro Reset */
 
 html {
-  font-size: 100%;
+  /* font-size: 120%; */
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   box-sizing: border-box;
@@ -38,7 +40,7 @@ body {
 }
 
 h1, h2 {
-  font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Georgia, serif;
+  font-family: "Gill Sans MT", "Gill Sans", "LXGW WenKai Screen R", sans-serif;
   font-size: 1.5em;
   padding: 0;
   margin: 20px 0 20px;
@@ -54,6 +56,10 @@ h1.site-title {
   font-family: monospace;
 }
 
+p {
+  text-align: justify;
+  letter-spacing: 1px;
+}
 
 h2 {
   font-size: 20px;
@@ -156,8 +162,8 @@ body {
 }
 
 .masthead {
-  width: 260px;
-  padding: 20px 30px 20px 10px;
+  width: 220px;
+  padding: 20px 10px 20px 10px;
   float: left;
 }
 

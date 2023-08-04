@@ -58,6 +58,7 @@ h1.site-title {
 
 p {
   text-align: justify;
+  letter-spacing: 1px;
 }
 
 h2 {
@@ -161,8 +162,8 @@ body {
 }
 
 .masthead {
-  width: 260px;
-  padding: 20px 30px 20px 10px;
+  width: 220px;
+  padding: 20px 10px 20px 10px;
   float: left;
 }
 
