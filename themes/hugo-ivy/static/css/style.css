@@ -54,6 +54,9 @@ h1.site-title {
   font-family: monospace;
 }
 
+p {
+  text-align: justify;
+}
 
 h2 {
   font-size: 20px;
