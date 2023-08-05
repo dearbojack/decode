@@ -16,6 +16,8 @@ html {
 body {
   margin: 0;
   padding: 0;
+  /* color: #f8f8f8; */
+  background-color: #eff5ff;
 }
 
 button, input, select, textarea, label {

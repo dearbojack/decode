@@ -187,5 +187,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title>blogdown</title>
+      <link>https://dearbojack.github.io/decode/tags/blogdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://dearbojack.github.io/decode/tags/markdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MathJax</title>
+      <link>https://dearbojack.github.io/decode/tags/mathjax/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandoc</title>
+      <link>https://dearbojack.github.io/decode/tags/pandoc/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/pandoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio</title>
+      <link>https://dearbojack.github.io/decode/tags/rstudio/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
