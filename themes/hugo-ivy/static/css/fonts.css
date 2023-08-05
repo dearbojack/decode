@@ -1,12 +1,13 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreenr.css");
+/* @import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreenr.css"); */
 
 body {
-  font-family: Verdana, system-ui, Helvetica, Arial, "LXGW WenKai Screen R", sans-serif;
-  font-size: 1em;
+  font-family: Verdana, system-ui, Helvetica, sans-serif;
+  font-size: 13px;
+  /* line-height: 1.85; */
 }
 code {
-  font-family: "Lucida Console", 'Andale Mono', 'STKaiti', 'KaiTi', 'SimKai', monospace;
+  font-family: Menlo, Monaco, monospace;
 }
 pre code {
-  font-family: Consolas, "Lucida Console", Monaco, 'STKaiti', 'KaiTi', 'SimKai', monospace;
+  font-family: Menlo, Monaco, monospace;
 }

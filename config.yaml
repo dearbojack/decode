@@ -17,17 +17,17 @@ permalinks:
 
 menu:
   main:
-    - name: "Home"
+    - name: "HOME"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "ABOUT"
       url: "/about/"
       weight: 2
     # let's remove all this and keep it simple
     # - name: "Tags"
     #   url: "/tags/"
     #   weight: 3
-    - name: "Subscribe"
+    - name: "RSS"
       url: "/index.xml"
 
 params:
