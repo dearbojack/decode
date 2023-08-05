@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>痛失我孬</title>
-      <link>https://dearbojack.github.io/decode/post/2023/07/27/%E7%97%9B%E5%A4%B1%E6%88%91%E5%AD%AC/</link>
+      <title>RIP，孬</title>
+      <link>https://dearbojack.github.io/decode/post/2023/07/27/rip%E5%AD%AC/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/decode/post/2023/07/27/%E7%97%9B%E5%A4%B1%E6%88%91%E5%AD%AC/</guid>
+      <guid>https://dearbojack.github.io/decode/post/2023/07/27/rip%E5%AD%AC/</guid>
       <description>妈跟我说孬没了。
 它刚来家里的时候，脾气很坏，会喉咙低沉地吼，还会咬人。虽然只是轻轻地咬。可能是应激反应吧。当时还录了个视频，“跑两步就喘”，是当时我在视频里说的。现在回头看看，可能小家伙就是特别怕热。
 来的时候还只是个小奶猫，后来脾气慢慢变好，慢慢地不哼哼了，也不咬人了。可以抱着，手感一级棒。熟悉了吧。虽然笨，但是学东西挺快，跟着家里的大猫，有样学样，什么都会了。再后来，甚至一米多高的窗台都能助跑然后跳上去了。要知道它是个只有30厘米左右的高的小短腿儿。
@@ -32,7 +32,7 @@ I will hold dear the memory of you. May you rest in peace. Love.</description>
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
+import React from &#39;react&#39;;import Typed from &#39;react-typed&#39;;const Hero = () =&amp;gt; {return (&amp;lt;div className=&#39;text-white&#39;&amp;gt;&amp;lt;div&amp;gt;&amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt;&amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop/&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;)}export default HeroSo I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
   </channel>

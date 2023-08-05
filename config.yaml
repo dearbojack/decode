@@ -31,8 +31,8 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "How I live my life"
-  footer: "&copy; Dali Han 2023 | [Github](https://github.com/dearbojack)"
+  description: "Hmm, I think..."
+  footer: "&copy; XSMK 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
