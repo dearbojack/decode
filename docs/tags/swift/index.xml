@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swift on Decode</title>
+    <link>https://dearbojack.github.io/decode/tags/swift/</link>
+    <description>Recent content in swift on Decode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days of SwiftUI</title>
+      <link>https://dearbojack.github.io/decode/post/2023/08/11/100-days-of-swiftui/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/post/2023/08/11/100-days-of-swiftui/</guid>
+      <description>Has been learning Swift for the last couple of days. Day 9 of 100 Days of SwiftUI.
+Today, when trying to solve the quiz of finding the square root of a given number (without using the built-in sqrt()), I learned the binary search algorithm in Swift.
+The core codes:
+var low = 1 var high = number var result = 0 while low &amp;lt;= high { let mid = (low + high) / 2 if mid * mid == number { return mid } else if mid * mid &amp;lt; number { low = mid + 1 result = mid } else { high = mid - 1 } } It&amp;rsquo;s kind of interesting, so I tried to write the binary search in Swift (finding the index of a given target in a given array).</description>
+    </item>
+    
+  </channel>
+</rss>
