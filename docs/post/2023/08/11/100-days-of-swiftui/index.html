@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>100 Days of SwiftUI - Decode</title>
+    <meta property="og:title" content="100 Days of SwiftUI - Decode">
+    
+    <meta name="twitter:card" content="summary">
+
+    
+    
+      
+    
+
+    
+      
+      <meta property="description" content="Has been learning Swift for the last couple of days. Day 9 of 100 Days of SwiftUI.
+Today, when trying to solve the quiz of finding the square root of a given number (without using the built-in &amp;hellip;">
+      <meta property="og:description" content="Has been learning Swift for the last couple of days. Day 9 of 100 Days of SwiftUI.
+Today, when trying to solve the quiz of finding the square root of a given number (without using the built-in &amp;hellip;">
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/github.min.css">
+
+
+
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/style.css" />
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/fonts.css" />
+    
+  </head>
+  <body class="decode">
+    <header class="masthead">
+      
+<h1 class="site-title"><a href="https://dearbojack.github.io/decode">Decode</a></h1>
+
+
+<p class="tagline">Hmm, I think...</p>
+
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" hidden/>
+  <label id="menu-label" for="menu-check" class="unselectable" hidden>
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
+  
+  
+  <li><a href="/decode/">HOME</a></li>
+  
+  <li><a href="/decode/about/">ABOUT</a></li>
+  
+  <li><a href="/decode/index.xml">RSS</a></li>
+  
+  
+  </ul>
+</nav>
+
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>100 Days of SwiftUI</h1>
+
+
+
+<h3>
+
+Xiong Nao
+
+
+
+
+
+
+ @ 
+Friday, 11 August 2023
+</h3>
+
+<hr>
+
+
+      </header>
+
+
+
+
+
+<p>Has been learning Swift for the last couple of days. Day 9 of <a href="https://www.hackingwithswift.com/100/swiftui">100 Days of SwiftUI</a>.</p>
+<p>Today, when trying to solve the quiz of finding the square root of a given number (without using the built-in <code>sqrt()</code>), I learned the binary search algorithm in Swift.</p>
+<p>The core codes:</p>
+<pre><code class="language-swift">var low = 1
+var high = number
+var result = 0
+
+while low &lt;= high {
+    let mid = (low + high) / 2
+    if mid * mid == number {
+        return mid
+    } else if mid * mid &lt; number {
+        low = mid + 1
+        result = mid
+    } else {
+        high = mid - 1
+    }
+}
+</code></pre>
+<p>It&rsquo;s kind of interesting, so I tried to write the binary search in Swift (finding the index of a given target in a given array). Pretty much the same.</p>
+<pre><code class="language-swift">var low = 0
+var high = array.count - 1
+
+while low &lt;= high {
+    let mid = low + (high - low) / 2
+    
+    if array[mid] == target {
+        return mid
+    } else if array[mid] &lt; target {
+        low = mid + 1
+    } else {
+        high = mid - 1
+    }
+}
+</code></pre>
+<p>I&rsquo;m starting to get the beauty of algorithm. I think that&rsquo;s mainly because I checked the problems on <a href="https://leetcode.com/">LeetCode</a> lately. And I read the book <a href="https://www.hello-algo.com/chapter_searching/binary_search/">Hello Algorithm</a>, which was quite well-written and well-designed.</p>
+<ul>
+<li><a href="https://www.hello-algo.com/">《Hello 算法》</a></li>
+</ul>
+
+
+
+  <footer>
+  
+  
+
+
+
+
+
+
+
+<script src="//cdn.jsdelivr.net/combine/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js,npm/@xiee/utils/js/load-highlight.js" defer></script>
+
+
+
+  
+  <hr>
+  <div class="copyright">© Nao 2023 | <a href="https://github.com/dearbojack">Github</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
+
