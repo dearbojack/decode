@@ -123,7 +123,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid;
+  border-top: 1px solid #ddecfc;
   margin: 10px auto;
   padding: 0;
   max-width: 300px;
