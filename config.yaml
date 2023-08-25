@@ -32,7 +32,7 @@ menu:
 
 params:
   description: "Hmm, I think..."
-  footer: "&copy; XSMK 2023 | [Github](https://github.com/dearbojack)"
+  footer: "&copy; Nao 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"

@@ -18,7 +18,7 @@ case $post_type in
 ---
 title: "$file_name"
 date: "$(date +"%Y-%m-%d")"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [$tags]
 categories:
     - note
@@ -32,7 +32,7 @@ EOF
 ---
 title: "$file_name"
 date: "$(date +"%Y-%m-%d")"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [$tags]
 categories:
     - post
@@ -46,7 +46,7 @@ EOF
 ---
 title: "$file_name &"
 date: "$(date +"%Y-%m-%d")"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [$tags, log]
 categories:
     - journal

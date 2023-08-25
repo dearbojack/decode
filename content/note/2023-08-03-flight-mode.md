@@ -1,7 +1,7 @@
 ---
 title: "'Flight' Mode"
 date: "2023-08-03"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [fight, flight]
 categories:
     - note

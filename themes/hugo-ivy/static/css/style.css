@@ -1,5 +1,3 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreenr.css");
-
 /* Micro Reset */
 
 html {
@@ -125,8 +123,8 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  /* border-top: 1px solid; */
-  /* margin: 10px auto; */
+  border-top: 1px solid;
+  margin: 10px auto;
   padding: 0;
   max-width: 300px;
 }

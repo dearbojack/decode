@@ -1,7 +1,7 @@
 ---
 title: "Barcelona"
 date: "2023-06-29T19:28:34+02:00"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [cities, memories]
 categories:
     - note

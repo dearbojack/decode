@@ -1,7 +1,6 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreenr.css");
 
 body {
-  font-family: Verdana, system-ui, Helvetica, PingFang TC, PingFang SC,sans-serif!important;
+  font-family: Verdana, system-ui, Helvetica, sans-serif!important;
   font-size: 14px;
 }
 code {
@@ -11,5 +10,5 @@ pre code {
   font-family: Menlo, Monaco, monospace;
 }
 h1, h2 {
-  font-family: "Gill Sans MT", "Gill Sans", Avenir, "Trebuchet MS", PingFang TC, PingFang SC, sans-serif;
+  font-family: "Gill Sans MT", "Gill Sans", Avenir, "Trebuchet MS", sans-serif;
 }

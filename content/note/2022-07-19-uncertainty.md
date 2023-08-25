@@ -2,7 +2,7 @@
 title: "拥抱未知"
 date: 2022-07-19T16:25:06+08:00
 draft: false
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [think]
 categories:
     - note

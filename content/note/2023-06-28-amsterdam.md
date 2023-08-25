@@ -1,7 +1,7 @@
 ---
 title: "Amsterdam"
 date: "2023-06-28T09:24:56+02:00"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [cities, tour]
 categories:
     - note

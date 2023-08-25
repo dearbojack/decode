@@ -1,7 +1,7 @@
 ---
 title: "On the life of human"
 date: "2023-07-19T17:51:52+01:00"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [human, meaning, life]
 categories:
     - note

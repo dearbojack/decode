@@ -1,7 +1,7 @@
 ---
 title: "No Autopilot Life"
 date: "2023-07-18T00:30:33+01:00"
-author: "Dali Han"
+author: "Xiong Nao"
 tags: [thoughts]
 categories:
     - note
