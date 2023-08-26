@@ -9,7 +9,9 @@ This regular guy loves playing good games. Life's about experiences and you can 
 
 Hope you have a nice day, stranger! 
 
-:)
+---
+
+Intentional mobile-unfriendly.  _2023-07-25_
 
 ---
 
