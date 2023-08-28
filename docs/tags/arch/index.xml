@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arch on Decode</title>
+    <link>https://dearbojack.github.io/decode/tags/arch/</link>
+    <description>Recent content in arch on Decode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switch to PopOS &amp;</title>
+      <link>https://dearbojack.github.io/decode/journal/2023/08/28/switch-to-popos/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/journal/2023/08/28/switch-to-popos/</guid>
+      <description>Don&amp;rsquo;t know why lightdm failed to start, though I managed to switch to gdm and boot to gnome, but still I was unable to start xfce or i3, where I use to work. So, just installed Pop!OS 22.04 LTS on another partition. The rolling release of Manjaro, though interesting, is not so stable for daily use, I guess.
+The switch is somewhat uneventful. Almost all apps I use were available also.</description>
+    </item>
+    
+  </channel>
+</rss>

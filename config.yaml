@@ -17,10 +17,10 @@ permalinks:
 
 menu:
   main:
-    - name: "WHAT"
+    - name: "HOME"
       url: "/"
       weight: 1
-    - name: "WHO"
+    - name: "ABOUT"
       url: "/about/"
       weight: 2
     # let's remove all this and keep it simple
