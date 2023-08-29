@@ -4,7 +4,6 @@ title: Decode
 theme: hugo-ivy
 googleAnalytics: ""
 disqusShortname: ""
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
 publishDir: "docs"
 footnotereturnlinkcontents: ↩
@@ -17,21 +16,21 @@ permalinks:
 
 menu:
   main:
-    - name: "HOME"
+    - name: "home"
       url: "/"
       weight: 1
-    - name: "ABOUT"
+    - name: "about"
       url: "/about/"
       weight: 2
     # let's remove all this and keep it simple
     # - name: "Tags"
     #   url: "/tags/"
     #   weight: 3
-    - name: "RSS"
+    - name: "rss"
       url: "/index.xml"
 
 params:
-  description: "Hmm, I think..."
+  description: "hmm..."
   footer: "&copy; Nao 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
