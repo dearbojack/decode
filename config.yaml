@@ -30,7 +30,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "hmm..."
+  description: "out out brief candle"
   footer: "&copy; Nao 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
