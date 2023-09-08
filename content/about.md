@@ -11,7 +11,7 @@ Hope you have a nice day, stranger!
 
 ---
 
-Intentional mobile-unfriendly.  _2023-07-25_
+Intentional mobile-unfriendly and no dark mode.  _2023-07-25_
 
 ---
 

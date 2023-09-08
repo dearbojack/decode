@@ -6,7 +6,7 @@
   {{ range (where (cond .IsHome .Site.RegularPages .Pages) "Section" "!=" "") }}
   <li>
     <!-- omit the date in front of the list items, can reenable if needed -->
-    <!-- <span class="date">{{ .Date.Format "2006/01/02" }}</span> -->
+    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </li>
   {{ end }}
