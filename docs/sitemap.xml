@@ -2,32 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dearbojack.github.io/decode/tags/airbnb/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/ai/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/note/2023/09/22/ai-attack/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/categories/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/human/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/journal/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/categories/note/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/log/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/journal/2023/09/08/loughbough/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/note/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/writing/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/airbnb/</loc>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/journal/</loc>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/log/</loc>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/journal/2023/09/08/loughbough/</loc>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/town/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/uk/</loc>
-    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/move/</loc>
     <lastmod>2023-09-02T09:55:23+01:00</lastmod>
@@ -61,12 +79,6 @@
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2023/08/26/literacy-is-magic/</loc>
     <lastmod>2023-08-29T12:31:59+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/note/</loc>
-    <lastmod>2023-09-02T09:55:23+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/note/</loc>
-    <lastmod>2023-09-02T09:55:23+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/write/</loc>
     <lastmod>2023-08-29T12:31:59+01:00</lastmod>
@@ -165,10 +177,7 @@
     <lastmod>2023-08-25T21:48:30+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/about/</loc>
-    <lastmod>2023-08-26T21:07:20+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/human/</loc>
-    <lastmod>2023-08-25T21:48:30+01:00</lastmod>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/life/</loc>
     <lastmod>2023-08-25T21:48:30+01:00</lastmod>
@@ -242,9 +251,6 @@
     <loc>https://dearbojack.github.io/decode/tags/taiwan/</loc>
     <lastmod>2023-09-02T09:55:23+01:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/writing/</loc>
-    <lastmod>2023-09-02T09:55:23+01:00</lastmod>
-  </url><url>
     <loc>https://dearbojack.github.io/decode/note/2022/07/31/writing-is-hard/</loc>
     <lastmod>2023-09-02T09:55:23+01:00</lastmod>
   </url><url>
@@ -303,6 +309,6 @@
     <lastmod>2023-08-25T21:48:30+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/</loc>
-    <lastmod>2023-09-02T09:55:23+01:00</lastmod>
+    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
   </url>
 </urlset>

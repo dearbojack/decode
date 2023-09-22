@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>human on Decode</title>
-    <link>https://dearbojack.github.io/decode/tags/human/</link>
-    <description>Recent content in human on Decode</description>
+    <title>ai on Decode</title>
+    <link>https://dearbojack.github.io/decode/tags/ai/</link>
+    <description>Recent content in ai on Decode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/human/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Attack</title>
       <link>https://dearbojack.github.io/decode/note/2023/09/22/ai-attack/</link>
@@ -17,16 +17,6 @@
 可能到了哪一天就只会剩下很少一点人类写的东西了。机器生成的文字比例越来越高，也就慢慢不需要人类输出什么了，甚至人类都不用开口讲话了。脑电波被AI解读，直接通过电波交流。
 所以在这个AI四处攻城略地占领世界的时候，作为一个平庸的人类应该做些什么呢。写下自己的焦虑恐惧和不知所措吗。
 有人在用它帮助自己翻译，有人用它生成图片，有人用它学习语言，有人用它准备面试，说明它确实有用。不过用它来内容农场播撒垃圾内容，囫囵话颠来倒去的说，然后人半天看不懂，又得用它来概括，这就有点世界末日的意思了。信息爆炸，人已经完全无法从海量的信息中找到自己需要的东西了。</description>
-    </item>
-    
-    <item>
-      <title>On the life of human</title>
-      <link>https://dearbojack.github.io/decode/note/2023/07/19/on-the-life-of-human/</link>
-      <pubDate>Wed, 19 Jul 2023 17:51:52 +0100</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/note/2023/07/19/on-the-life-of-human/</guid>
-      <description>人一生下来就开始了一个无法停下来的“生产线”。你必须吃东西，然后就会拉。一开始还有有人喂你吃，找来食物给你吃，等大了，你就需要自己找吃的了，为了吃的，你就必须得找个工作做，赚钱，吃东西，拉。这个过程永远停不下来，知道你不需要吃了，你死了。
-而且，只要人活着就会产生垃圾，一刻不停。因为你吃完就会拉，甚至不吃也会。然后吃的东西会产生垃圾。人体也会有各种分泌物。然后你自己为了寻找吃的，为了赚钱买吃的，还会产生更多的垃圾。所有这些，换位成地球，我都觉得头大。好烦啊。</description>
     </item>
     
   </channel>
