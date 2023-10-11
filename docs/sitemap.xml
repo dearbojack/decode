@@ -2,35 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dearbojack.github.io/decode/tags/anxiety/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dearbojack.github.io/decode/categories/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/note/2023/10/04/no-worries/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/fun/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/note/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/note/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/journal/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/panic/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/log/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/panick/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/play/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/phobia/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/social/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/journal/2023/10/11/playing-tools/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/tools/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/anxiety/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/note/2023/10/04/no-worries/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/categories/note/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/note/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/panic/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/panick/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/phobia/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/social/</loc>
+    <lastmod>2023-10-04T20:27:17+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/ai/</loc>
     <lastmod>2023-09-22T18:58:07+01:00</lastmod>
@@ -45,15 +66,6 @@
     <lastmod>2023-09-22T18:58:07+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/airbnb/</loc>
-    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
-    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/journal/</loc>
-    <lastmod>2023-09-08T16:04:50+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/log/</loc>
     <lastmod>2023-09-08T16:04:50+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/journal/2023/09/08/loughbough/</loc>
@@ -276,9 +288,6 @@
     <lastmod>2023-09-02T09:55:23+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/note/2022/07/25/traditional-chinese-medicine/</loc>
-    <lastmod>2023-09-02T09:55:23+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/fun/</loc>
     <lastmod>2023-09-02T09:55:23+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/games/</loc>

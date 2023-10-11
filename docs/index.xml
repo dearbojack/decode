@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dearbojack.github.io/decode/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Playing Tools &amp;</title>
+      <link>https://dearbojack.github.io/decode/journal/2023/10/11/playing-tools/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/journal/2023/10/11/playing-tools/</guid>
+      <description>Tweaking i3-wm on Manjaro, and Pop!OS. Lost my i3 config for logging out and shutdown. Earlier, I reinstalled Catalina on the old Macbook. I also had a Mac Mini in the suitcase, no 4k monitor here, so not turning it on recently.
+Besides, I play with phones, Nothing Phone 1 and the old iPhone 11. And kindle, and kindle fire tablet which I bought on Amazon on the last Prime Day.</description>
+    </item>
+    
+    <item>
       <title>No Worries</title>
       <link>https://dearbojack.github.io/decode/note/2023/10/04/no-worries/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
@@ -123,7 +133,7 @@ This is the first time I use eBay, and it is the last time. Bye bye. Hope you go
       <description>Has been learning Swift for the last couple of days. Day 9 of 100 Days of SwiftUI.
 Today, when trying to solve the quiz of finding the square root of a given number (without using the built-in sqrt()), I learned the binary search algorithm in Swift.
 The core codes:
-var low = 1var high = numbervar result = 0while low &amp;lt;= high {let mid = (low + high) / 2if mid * mid == number {return mid} else if mid * mid &amp;lt; number {low = mid + 1result = mid} else {high = mid - 1}}It&amp;rsquo;s kind of interesting, so I tried to write the binary search in Swift (finding the index of a given target in a given array).</description>
+var low = 1 var high = number var result = 0 while low &amp;lt;= high { let mid = (low + high) / 2 if mid * mid == number { return mid } else if mid * mid &amp;lt; number { low = mid + 1 result = mid } else { high = mid - 1 } } It&amp;rsquo;s kind of interesting, so I tried to write the binary search in Swift (finding the index of a given target in a given array).</description>
     </item>
     
     <item>
@@ -196,7 +206,7 @@ That&amp;rsquo;s it.</description>
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;;import Typed from &#39;react-typed&#39;;const Hero = () =&amp;gt; {return (&amp;lt;div className=&#39;text-white&#39;&amp;gt;&amp;lt;div&amp;gt;&amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt;&amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop/&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;)}export default HeroSo I did a search and found that react-typed is a wrapper around the original Typed.</description>
+import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
     <item>
