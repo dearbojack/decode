@@ -15,7 +15,7 @@
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
+import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero  So I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
   </channel>

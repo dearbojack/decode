@@ -2,32 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dearbojack.github.io/decode/post/2023/10/19/a-countdown-timer/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dearbojack.github.io/decode/categories/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/fun/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/clock/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/countdown/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/journal/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/edge/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/log/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/categories/post/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/tags/play/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/post/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dearbojack.github.io/decode/journal/2023/10/11/playing-tools/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <loc>https://dearbojack.github.io/decode/tags/python/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/read/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/timer/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/tts/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/post/2023/10/19/tts-with-edge-tts/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/fun/</loc>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/categories/journal/</loc>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/journal/</loc>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/log/</loc>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/tags/play/</loc>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
+  </url><url>
+    <loc>https://dearbojack.github.io/decode/journal/2023/10/11/playing-tools/</loc>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/tools/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-11T22:21:37+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/anxiety/</loc>
     <lastmod>2023-10-04T20:27:17+01:00</lastmod>
@@ -135,12 +168,6 @@
     <lastmod>2023-08-25T21:48:30+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/learn/</loc>
-    <lastmod>2023-08-25T21:48:30+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/categories/post/</loc>
-    <lastmod>2023-08-25T21:48:30+01:00</lastmod>
-  </url><url>
-    <loc>https://dearbojack.github.io/decode/post/</loc>
     <lastmod>2023-08-25T21:48:30+01:00</lastmod>
   </url><url>
     <loc>https://dearbojack.github.io/decode/tags/swift/</loc>

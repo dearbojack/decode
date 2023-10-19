@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>A Countdown Timer - Decode</title>
+    <meta property="og:title" content="A Countdown Timer - Decode">
+    
+    <meta name="twitter:card" content="summary">
+
+    
+    
+      
+    
+
+    
+      
+      <meta property="description" content="Inspired by a macro in Keyboard Maestro, I asked ChatGPT to create a simple countdown timer in Python.
+To use it, save the script as show_countdown.py, then simply run the script with an integer (how &amp;hellip;">
+      <meta property="og:description" content="Inspired by a macro in Keyboard Maestro, I asked ChatGPT to create a simple countdown timer in Python.
+To use it, save the script as show_countdown.py, then simply run the script with an integer (how &amp;hellip;">
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/github.min.css">
+
+
+
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/style.css" />
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/fonts.css" />
+    
+  </head>
+  <body class="decode">
+    <header class="masthead">
+      
+<h1 class="site-title"><a href="https://dearbojack.github.io/decode">Decode</a></h1>
+
+
+<p class="tagline">out out brief candle</p>
+
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" hidden/>
+  <label id="menu-label" for="menu-check" class="unselectable" hidden>
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
+  
+  
+  <li><a href="/decode/">home</a></li>
+  
+  <li><a href="/decode/about/">about</a></li>
+  
+  <li><a href="/decode/index.xml">rss</a></li>
+  
+  
+  </ul>
+</nav>
+
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>A Countdown Timer</h1>
+
+
+
+<h3>
+
+Xiong Nao
+
+
+
+
+
+
+ @ 
+Thursday, 19 October 2023
+</h3>
+
+<hr>
+
+
+      </header>
+
+
+
+
+
+<p>Inspired by a macro in <strong>Keyboard Maestro</strong>, I asked ChatGPT to create a simple countdown timer in Python.</p>
+<p>To use it, save the script as <code>show_countdown.py</code>, then simply run the script with an integer (how many minutes to count down) like:</p>
+<pre><code class="language-python">python show_countdown.py 5 # 5 minutes countdown timer
+</code></pre>
+<p>The script is:</p>
+<pre><code class="language-python">import webbrowser
+
+def show_countdown(minutes):
+    html_content = f'''
+    &lt;!DOCTYPE html&gt;
+    &lt;html lang=&quot;en&quot;&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Countdown Timer&lt;/title&gt;
+        &lt;style&gt;
+            body {{
+            	font-family: Fira Mono, Monaco, Menlo, monospace;
+            	font-size: 10em;
+                font-weight: bold;
+                text-align: center;
+                background-color: aliceblue;
+                transition: background-color 0.5s;
+            }}
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;div id=&quot;countdown&quot;&gt;&lt;/div&gt;
+
+        &lt;script&gt;
+	    
+            function startCountdown(minutes) {{
+                var countdownElement = document.getElementById('countdown');
+                var totalSeconds = minutes * 60;
+                var countdownInterval = setInterval(function() {{
+                    var minutes = Math.floor(totalSeconds / 60);
+                    var seconds = totalSeconds % 60;
+                    countdownElement.innerHTML = (minutes &lt; 10 ? '0' : '') + minutes + ':' + (seconds &lt; 10 ? '0' : '') + seconds;
+
+                    if (totalSeconds &lt;= 0) {{
+                        clearInterval(countdownInterval);
+                        countdownElement.innerHTML = 'xxx!';
+                        document.body.style.backgroundColor = 'pink';
+                    }} else {{
+                        totalSeconds--;
+                    }}
+                }}, 1000);
+            }}
+
+            var minutes = {minutes};
+            startCountdown(minutes);
+        &lt;/script&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+    '''
+
+    with open('countdown.html', 'w') as f:
+        f.write(html_content)
+
+    webbrowser.open('countdown.html')
+
+if __name__ == '__main__':
+    import sys
+
+    if len(sys.argv) != 2:
+        print('Usage: python show_countdown.py &lt;minutes&gt;')
+        sys.exit(1)
+
+    try:
+        minutes = int(sys.argv[1])
+        show_countdown(minutes)
+    except ValueError:
+        print('Please provide a valid integer for the number of minutes.')
+
+</code></pre>
+
+
+
+  <footer>
+  
+  
+
+
+
+
+
+
+
+<script src="//cdn.jsdelivr.net/combine/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js,npm/@xiee/utils/js/load-highlight.js" defer></script>
+
+
+
+  
+  <hr>
+  <div class="copyright">© Nao 2023 | <a href="https://github.com/dearbojack">Github</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
+

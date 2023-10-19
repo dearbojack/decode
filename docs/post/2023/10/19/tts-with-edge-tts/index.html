@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>TTS with edge-tts - Decode</title>
+    <meta property="og:title" content="TTS with edge-tts - Decode">
+    
+    <meta name="twitter:card" content="summary">
+
+    
+    
+      
+    
+
+    
+      
+      <meta property="description" content="I like the read out loud in Edge browser on MacOS, but it&amp;rsquo;s not available in Linux. Luckily, there is a edge-tts created by rany2 on Github.
+So, I asked ChatGPT create several scripts to read &amp;hellip;">
+      <meta property="og:description" content="I like the read out loud in Edge browser on MacOS, but it&amp;rsquo;s not available in Linux. Luckily, there is a edge-tts created by rany2 on Github.
+So, I asked ChatGPT create several scripts to read &amp;hellip;">
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/github.min.css">
+
+
+
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/style.css" />
+    <link rel="stylesheet" href="https://dearbojack.github.io/decode/css/fonts.css" />
+    
+  </head>
+  <body class="decode">
+    <header class="masthead">
+      
+<h1 class="site-title"><a href="https://dearbojack.github.io/decode">Decode</a></h1>
+
+
+<p class="tagline">out out brief candle</p>
+
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" hidden/>
+  <label id="menu-label" for="menu-check" class="unselectable" hidden>
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
+  
+  
+  <li><a href="/decode/">home</a></li>
+  
+  <li><a href="/decode/about/">about</a></li>
+  
+  <li><a href="/decode/index.xml">rss</a></li>
+  
+  
+  </ul>
+</nav>
+
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1>TTS with edge-tts</h1>
+
+
+
+<h3>
+
+Xiong Nao
+
+
+
+
+
+
+ @ 
+Thursday, 19 October 2023
+</h3>
+
+<hr>
+
+
+      </header>
+
+
+
+
+
+<p>I like the read out loud in Edge browser on MacOS, but it&rsquo;s not available in Linux. Luckily, there is a <a href="https://github.com/rany2/edge-tts">edge-tts</a> created by rany2 on Github.</p>
+<p>So, I asked ChatGPT create several scripts to read out the clipboard and convert a txt file to audio.</p>
+<p>Dependencies: python, pip, pipx, edge-tts, xclip. Took me sometime to install all the deps. Then to use the scripts, just copy some text and run the bash script.</p>
+<pre><code class="language-bash">#!/bin/bash
+
+# Check if xclip is installed
+if ! command -v xclip &amp;&gt; /dev/null
+then
+    echo &quot;xclip is not installed. Please install it before running this script.&quot;
+    exit
+fi
+
+# Check if edge-tts is installed
+if ! command -v edge-tts &amp;&gt; /dev/null
+then
+    echo &quot;edge-tts is not installed. Please install it before running this script.&quot;
+    exit
+fi
+
+# Get the text from the clipboard
+text=$(xclip -o)
+
+# Check if there's any text to read
+if [ -z &quot;$text&quot; ]
+then
+    echo &quot;Clipboard is empty. Nothing to read.&quot;
+    exit
+fi
+
+# Use edge-tts to read out the text
+
+# here i use chinese voice &amp; speed x 1.25
+edge-playback --rate=+50% --voice zh-CN-XiaoxiaoNeural --text &quot;$text&quot;
+
+# you can use default english voice directly
+# edge-playback --rate=+25% --text &quot;$text&quot;
+
+</code></pre>
+
+
+
+  <footer>
+  
+  
+
+
+
+
+
+
+
+<script src="//cdn.jsdelivr.net/combine/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js,npm/@xiee/utils/js/load-highlight.js" defer></script>
+
+
+
+  
+  <hr>
+  <div class="copyright">© Nao 2023 | <a href="https://github.com/dearbojack">Github</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
+
