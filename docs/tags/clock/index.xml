@@ -15,8 +15,8 @@
       <guid>https://dearbojack.github.io/decode/post/2023/10/19/a-countdown-timer/</guid>
       <description>Inspired by a macro in Keyboard Maestro, I asked ChatGPT to create a simple countdown timer in Python.
 To use it, save the script as show_countdown.py, then simply run the script with an integer (how many minutes to count down) like:
-python show_countdown.py 5 # 5 minutes countdown timer The script is:
-import webbrowser def show_countdown(minutes): html_content = f&#39;&#39;&#39; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.0&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Countdown Timer&amp;lt;/title&amp;gt; &amp;lt;style&amp;gt; body {{ font-family: Fira Mono, Monaco, Menlo, monospace; font-size: 10em; font-weight: bold; text-align: center; background-color: aliceblue; transition: background-color 0.</description>
+python show_countdown.py 5 # 5 minutes countdown timer  The script is:
+import webbrowser def show_countdown(minutes): html_content = f&#39;&#39;&#39; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.</description>
     </item>
     
   </channel>

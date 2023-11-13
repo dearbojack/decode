@@ -6,7 +6,18 @@
     <description>Recent content in post on Decode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distrohop</title>
+      <link>https://dearbojack.github.io/decode/post/2023/11/13/distrohop/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/post/2023/11/13/distrohop/</guid>
+      <description>最近闲来无事，又开始了大学时候就一直玩得停不下来的Linux系统安装实验，感觉自己有病。
+Tried Manjaro, Pop!OS, Fedora, OpenSuse, Ubuntu, etc. One thing I have to say is they have advanced alot since the last time I played (that was Ubuntu 6/8.04, around 2009 or so). Media codecs and Chinese IME are all working properly. Though some apps require some tweaking a bit, most of the functions people expect from a working laptop are okay.
+Based on the distrohop, I have below conclusions:</description>
+    </item>
+    
     <item>
       <title>A Countdown Timer</title>
       <link>https://dearbojack.github.io/decode/post/2023/10/19/a-countdown-timer/</link>
@@ -15,8 +26,8 @@
       <guid>https://dearbojack.github.io/decode/post/2023/10/19/a-countdown-timer/</guid>
       <description>Inspired by a macro in Keyboard Maestro, I asked ChatGPT to create a simple countdown timer in Python.
 To use it, save the script as show_countdown.py, then simply run the script with an integer (how many minutes to count down) like:
-python show_countdown.py 5 # 5 minutes countdown timer The script is:
-import webbrowser def show_countdown(minutes): html_content = f&#39;&#39;&#39; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.0&amp;quot;&amp;gt; &amp;lt;title&amp;gt;Countdown Timer&amp;lt;/title&amp;gt; &amp;lt;style&amp;gt; body {{ font-family: Fira Mono, Monaco, Menlo, monospace; font-size: 10em; font-weight: bold; text-align: center; background-color: aliceblue; transition: background-color 0.</description>
+python show_countdown.py 5 # 5 minutes countdown timer  The script is:
+import webbrowser def show_countdown(minutes): html_content = f&#39;&#39;&#39; &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;viewport&amp;quot; content=&amp;quot;width=device-width, initial-scale=1.</description>
     </item>
     
     <item>
@@ -39,7 +50,7 @@ Dependencies: python, pip, pipx, edge-tts, xclip. Took me sometime to install al
       <description>Has been learning Swift for the last couple of days. Day 9 of 100 Days of SwiftUI.
 Today, when trying to solve the quiz of finding the square root of a given number (without using the built-in sqrt()), I learned the binary search algorithm in Swift.
 The core codes:
-var low = 1 var high = number var result = 0 while low &amp;lt;= high { let mid = (low + high) / 2 if mid * mid == number { return mid } else if mid * mid &amp;lt; number { low = mid + 1 result = mid } else { high = mid - 1 } } It&amp;rsquo;s kind of interesting, so I tried to write the binary search in Swift (finding the index of a given target in a given array).</description>
+var low = 1 var high = number var result = 0 while low &amp;lt;= high { let mid = (low + high) / 2 if mid * mid == number { return mid } else if mid * mid &amp;lt; number { low = mid + 1 result = mid } else { high = mid - 1 } }  It&amp;rsquo;s kind of interesting, so I tried to write the binary search in Swift (finding the index of a given target in a given array).</description>
     </item>
     
     <item>
@@ -67,7 +78,7 @@ I will hold dear the memory of you. May you rest in peace. Love.</description>
       <guid>https://dearbojack.github.io/decode/post/2023/07/22/til-typed.js/</guid>
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.
 You can get a typewriter effect and deletion effect with simple code like below (in a react project):
-import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
+import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero  So I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     
   </channel>

@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Decode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>distro</title>
+      <link>https://dearbojack.github.io/decode/tags/distro/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/distro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://dearbojack.github.io/decode/tags/linux/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://dearbojack.github.io/decode/tags/ubuntu/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/decode/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>log</title>
       <link>https://dearbojack.github.io/decode/tags/log/</link>
@@ -247,24 +274,6 @@
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/decode/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://dearbojack.github.io/decode/tags/linux/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubuntu</title>
-      <link>https://dearbojack.github.io/decode/tags/ubuntu/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/decode/tags/ubuntu/</guid>
       <description></description>
     </item>
     
