@@ -31,7 +31,7 @@ menu:
 
 params:
   description: "out out brief candle"
-  footer: "&copy; Nao 2023 | [Github](https://github.com/dearbojack)"
+  footer: "&copy; D&D 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
