@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Decode</title>
+    <title>Tags on Misty</title>
     <link>https://dearbojack.github.io/decode/tags/</link>
-    <description>Recent content in Tags on Decode</description>
+    <description>Recent content in Tags on Misty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>jobless</title>
-      <link>https://dearbojack.github.io/decode/tags/jobless/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://dearbojack.github.io/decode/tags/jobless/</guid>
+      <title>job</title>
+      <link>https://dearbojack.github.io/decode/tags/job/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/job/</guid>
       <description></description>
     </item>
     <item>
       <title>log</title>
       <link>https://dearbojack.github.io/decode/tags/log/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://dearbojack.github.io/decode/tags/log/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jobless</title>
+      <link>https://dearbojack.github.io/decode/tags/jobless/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/jobless/</guid>
       <description></description>
     </item>
     <item>
@@ -422,6 +429,34 @@
       <description></description>
     </item>
     <item>
+      <title>spaghetti</title>
+      <link>https://dearbojack.github.io/decode/tags/spaghetti/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/spaghetti/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>reactjs</title>
+      <link>https://dearbojack.github.io/decode/tags/reactjs/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IME</title>
+      <link>https://dearbojack.github.io/decode/tags/ime/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/ime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>blogdown</title>
+      <link>https://dearbojack.github.io/decode/tags/blogdown/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>counter</title>
       <link>https://dearbojack.github.io/decode/tags/counter/</link>
       <pubDate>Mon, 08 Aug 2022 15:21:01 +0800</pubDate>
@@ -510,6 +545,13 @@
       <link>https://dearbojack.github.io/decode/tags/think/</link>
       <pubDate>Tue, 19 Jul 2022 16:25:06 +0800</pubDate>
       <guid>https://dearbojack.github.io/decode/tags/think/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elden Ring</title>
+      <link>https://dearbojack.github.io/decode/tags/elden-ring/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/elden-ring/</guid>
       <description></description>
     </item>
   </channel>

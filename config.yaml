@@ -1,6 +1,6 @@
 baseurl: https://dearbojack.github.io/decode
 languageCode: en-us
-title: Decode
+title: Misty
 theme: hugo-ivy
 googleAnalytics: ""
 disqusShortname: ""
@@ -30,7 +30,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "out out brief candle"
+  description: "Log file of a nobody"
   footer: "&copy; D&D 2023 | [Github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"

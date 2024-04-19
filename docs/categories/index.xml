@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Decode</title>
+    <title>Categories on Misty</title>
     <link>https://dearbojack.github.io/decode/categories/</link>
-    <description>Recent content in Categories on Decode</description>
+    <description>Recent content in Categories on Misty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dearbojack.github.io/decode/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>journal</title>
       <link>https://dearbojack.github.io/decode/categories/journal/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://dearbojack.github.io/decode/categories/journal/</guid>
       <description></description>
     </item>
