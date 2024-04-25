@@ -1,5 +1,5 @@
 ---
-title: "拥抱未知"
+title: "Uncertainty"
 date: 2022-07-19T16:25:06+08:00
 draft: false
 author: "Xiong Nao"

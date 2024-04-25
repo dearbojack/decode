@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>learn on Misty</title>
+    <title>learn on null</title>
     <link>https://dearbojack.github.io/decode/tags/learn/</link>
-    <description>Recent content in learn on Misty</description>
+    <description>Recent content in learn on null</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
@@ -23,10 +23,10 @@
       <description>Today, I learned how to use react-typed. It is really simple, but the result is quite fancy.&#xA;You can get a typewriter effect and deletion effect with simple code like below (in a react project):&#xA;import React from &#39;react&#39;; import Typed from &#39;react-typed&#39;; const Hero = () =&amp;gt; { return ( &amp;lt;div className=&#39;text-white&#39;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;p&amp;gt;You can easily earn money for&amp;lt;/p&amp;gt; &amp;lt;Typed strings={[&#39;me&#39;, &#39;you&#39;, &#39;all&#39;]} typeSpeed={120} backSpeed={160} loop /&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; ) } export default Hero So I did a search and found that react-typed is a wrapper around the original Typed.</description>
     </item>
     <item>
-      <title>语言</title>
-      <link>https://dearbojack.github.io/decode/note/2022/07/20/%E8%AF%AD%E8%A8%80/</link>
+      <title>Language</title>
+      <link>https://dearbojack.github.io/decode/note/2022/07/20/language/</link>
       <pubDate>Wed, 20 Jul 2022 17:57:07 +0800</pubDate>
-      <guid>https://dearbojack.github.io/decode/note/2022/07/20/%E8%AF%AD%E8%A8%80/</guid>
+      <guid>https://dearbojack.github.io/decode/note/2022/07/20/language/</guid>
       <description>现在如果要说后不后悔学习英文，坦白讲，还是有点后悔自己没有当时下功夫去学习编程。如果自己当时再努力一些，再勤奋一些，说不定是完全不一样的生活了。&#xA;但是除了编程，我不太后悔学习英文。虽然最后找的工作基本跟英文没什么关系，但是这样一个语言让我可以看到外面的世界，打开了自己的眼界，相当于是从一个井口爬了出来。虽然会有人试图蒙上你的眼睛，但还是可以透过这个蒙眼布的缝隙里看到那些谎言的可笑之处。&#xA;往大了说，一门语言其实提供了一个看问题的视角，一种思考的习惯。&#xA;高中的时候不知道从哪里搞来一本英语文摘，上面是经济学人等等很难的文章的摘录，看一篇文章，基本二三十个生词，字典要翻好久。当时的英语老师看到了，意味深长地看了我一眼，也没说什么。我想她心里可能会觉得那时候看这个东西还是太早了吧。&#xA;谁又能想到我现在在做翻译呢？</description>
     </item>
   </channel>

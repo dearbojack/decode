@@ -60,3 +60,5 @@ EOF
 esac
 
 echo "Created new file at $file_path"
+
+code $file_path
