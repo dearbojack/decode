@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Think on null</title>
+    <title>think on null</title>
     <link>https://dearbojack.github.io/decode/tags/think/</link>
-    <description>Recent content in Think on null</description>
-    <generator>Hugo</generator>
+    <description>Recent content in think on null</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2024 19:53:03 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jul 2022 16:25:06 +0800</lastBuildDate>
     <atom:link href="https://dearbojack.github.io/decode/tags/think/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncertainty</title>

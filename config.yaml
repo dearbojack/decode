@@ -30,7 +30,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "system log"
+  description: "good day, stranger"
   footer: "&copy; d&d 2022 | [github](https://github.com/dearbojack)"
   highlightjsLang: ["javascript"]
   highlightjsTheme: "github"

@@ -2,4 +2,6 @@
 title: Home
 ---
 
-*built with [hugo](https://gohugo.io/) (theme: [ivy](https://github.com/yihui/hugo-ivy))*
+name of this blog is in memory of my cat - 孬.
+
+*built with [hugo](https://gohugo.io/) (theme: modified [ivy](https://github.com/yihui/hugo-ivy))*
