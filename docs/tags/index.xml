@@ -6,7 +6,7 @@
     <description>Recent content in Tags on null</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:42:57 +0000</lastBuildDate>
     <atom:link href="https://dearbojack.github.io/decode/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Log</title>
@@ -146,6 +146,13 @@
       <link>https://dearbojack.github.io/decode/tags/act/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dearbojack.github.io/decode/tags/act/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Translator</title>
+      <link>https://dearbojack.github.io/decode/tags/translator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/tags/translator/</guid>
       <description></description>
     </item>
     <item>
@@ -657,13 +664,6 @@
       <link>https://dearbojack.github.io/decode/tags/elden-ring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dearbojack.github.io/decode/tags/elden-ring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Translator</title>
-      <link>https://dearbojack.github.io/decode/tags/translator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dearbojack.github.io/decode/tags/translator/</guid>
       <description></description>
     </item>
   </channel>

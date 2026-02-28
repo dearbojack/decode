@@ -106,6 +106,13 @@
       <description>像演员一样生活&#xA;最近跟着家里人看一个演员类的综艺节目《无限超越班》。有几个学员演得让人难为情。看不下去，几个导师演得入木三分。确实厉害。有个学员自我介绍的时候紧张，下面坐着的导师就说她，「你是个演员啊，你就现在给我演一个不紧张的人。」&#xA;这个角度有意思。每个人都会觉得有些事情很难，那换个角度想，现在要让你当一个演员，一个很擅长做那些你觉得很难的事情的演员，你可以当好这样一个演员吗？我讨厌上班，讨厌面试，一到面试就紧张，可以演一个不紧张的面试者吗？&#xA;Fake it till you make it.&#xA;是个不错的应对心理问题的办法。至少可以试试，对吧。</description>
     </item>
     <item>
+      <title>干细胞捐献的翻译 &amp;</title>
+      <link>https://dearbojack.github.io/decode/journal/2024/05/01/%E5%B9%B2%E7%BB%86%E8%83%9E%E6%8D%90%E7%8C%AE%E7%9A%84%E7%BF%BB%E8%AF%91/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://dearbojack.github.io/decode/journal/2024/05/01/%E5%B9%B2%E7%BB%86%E8%83%9E%E6%8D%90%E7%8C%AE%E7%9A%84%E7%BF%BB%E8%AF%91/</guid>
+      <description>中午的翻译，伦敦的电话，不到二十分钟就结束了。一个女生配型成功了，但是她说自己身体比较虚弱，家里人有点担心她身体受不住。最后让中心这边 block 了三年，说是等她身体恢复之后再打开配型。&#xA;伦敦这边说，即便是同意走流程，真正开始之前也会有医疗团队对她的身体进行全面的检查的，如果捐献对她的身体有大的影响，也绝对不会强求的。&#xA;女生那边很多噪音，听不太清楚，好像是个咖啡馆，中间还和别人说笑，在噪音里面努力听清伦敦那边的声音，费劲，听得冒汗。&#xA;配型成功 - successful match&#xA;配型(HLA Typing)是指检测人类细胞表面的人类白细胞抗原(Human Leukocyte Antigens, HLA)的类型和排列方式。它在干细胞移植中扮演着非常重要的角色。</description>
+    </item>
+    <item>
       <title>Beyond Translation</title>
       <link>https://dearbojack.github.io/decode/journal/2024/04/25/beyond-translation/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
@@ -566,13 +573,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dearbojack.github.io/decode/journal/1/01/01/</guid>
       <description>title: &amp;quot;lifelog - New Start&amp;quot; date: 2023-04-05 author: Dali Han draft: false categories: - journal tags: - hugo - obsidian 是的，又重新開始了。一個中文博客寫日記，一個英文博客寫編碼，搞了好久部署沒有搞定。後來想想，完全沒有必要啊，中文的日記其實都是比較私人的東西，沒有必要部署發布。只要弄好本地的預覽，然後同步到雲端，等我死掉興許有人會看到，看不到就算了。這樣也算是留下了一點痕跡。雖然比在沙灘上寫字好不了多少，但人生何嘗不就是在沙灘上寫字呢。所有試圖留下點什麼的行為都是徒勞。&#xA;20:15 PM 设置了一下 Obsidian 的 QuickAdd 插件，这样可以直接在日记下面添加这样的记录，也不用每次都用 Hugo 创建新帖子了，可以直接用 Obsidian 写了，只需要偶尔上传 commits 就好了。&#xA;QuickAdd 的 Capture Format 设置很简单：&#xA;### {{DATE: HH:mm A}} {{VALUE}} </description>
-    </item>
-    <item>
-      <title>干细胞捐献的翻译 &amp;</title>
-      <link>https://dearbojack.github.io/decode/journal/1/01/01/%E5%B9%B2%E7%BB%86%E8%83%9E%E6%8D%90%E7%8C%AE%E7%9A%84%E7%BF%BB%E8%AF%91/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dearbojack.github.io/decode/journal/1/01/01/%E5%B9%B2%E7%BB%86%E8%83%9E%E6%8D%90%E7%8C%AE%E7%9A%84%E7%BF%BB%E8%AF%91/</guid>
-      <description>中午的翻译，伦敦的电话，不到二十分钟就结束了。一个女生配型成功了，但是她说自己身体比较虚弱，家里人有点担心她身体受不住。最后让中心这边 block 了三年，说是等她身体恢复之后再打开配型。&#xA;伦敦这边说，即便是同意走流程，真正开始之前也会有医疗团队对她的身体进行全面的检查的，如果捐献对她的身体有大的影响，也绝对不会强求的。&#xA;女生那边很多噪音，听不太清楚，好像是个咖啡馆，中间还和别人说笑，在噪音里面努力听清伦敦那边的声音，费劲，听得冒汗。&#xA;配型成功 - successful match&#xA;配型(HLA Typing)是指检测人类细胞表面的人类白细胞抗原(Human Leukocyte Antigens, HLA)的类型和排列方式。它在干细胞移植中扮演着非常重要的角色。</description>
     </item>
   </channel>
 </rss>
